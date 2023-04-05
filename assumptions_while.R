@@ -16,6 +16,8 @@ filtered <- data %>%
 
 # set.seed(605)
 
+alpha = 0.1
+
 a <- 100
 b <- 100
 c <- 100
@@ -27,7 +29,7 @@ most_significant_seed <- 0
 significant_count <- 0
 
 while (seed < 20000) {
-  if ((a <= 0.05) & (c <= 0.05)) {
+  if ((a <= alpha) & (c <= alpha)) {
     print("################################################################")
     significant_count <- significant_count + 1
 
@@ -46,6 +48,10 @@ while (seed < 20000) {
   sampled <- filtered %>%
     group_by(SDC_015) %>%
     sample_n(1000, replace = FALSE)
+  
+  sampled$SDC_015 <- as.factor(sampled$SDC_015)
+  sampled$NDVI <- as.factor(sampled$NDVI)
+  
   analysis_data <- sampled
 
   ### boxplot(analysis_data$GEN_015 ~ analysis_data$SDC_015)
@@ -64,12 +70,11 @@ while (seed < 20000) {
   # visual inspection pass for normality
   ### ggqqplot(adjusted_GEN_015)
 
-  group <- as.factor(analysis_data$SDC_015)
   # kruskal.test(GEN_015 ~ as.factor(analysis_data$SDC_015), data = analysis_data)
   # kruskal.test(GEN_015 ~ group + NDVI, data = analysis_data)
   # kruskal.test(GEN_015 ~ interaction(group, NDVI), data = analysis_data)
 
-  two_way_results.aov <- aov(GEN_015 ~ group + NDVI + group:NDVI, data = analysis_data)
+  two_way_results.aov <- aov(GEN_015 ~ SDC_015 + NDVI + SDC_015:NDVI, data = analysis_data)
   summary(two_way_results.aov)
 
   a <- summary(two_way_results.aov)[[1]][["Pr(>F)"]][1]
