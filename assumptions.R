@@ -20,12 +20,23 @@ sampled <- filtered %>%
     group_by(SDC_015) %>%
     sample_n(1000, replace = FALSE)
 
+# normalize ndvi
+ndvi <- sampled$NDVI
+sampled$NDVI <- (ndvi - min(ndvi)) / (max(ndvi) - min(ndvi))
+
 # categorize ndvi into 4 subcategories
 sampled$NDVI <- cut(
   sampled$NDVI, 
-  breaks = c(-Inf, 0.5, 0.6, 0.7, Inf),
+  breaks = c(-Inf, 0.25, 0.5, 0.75, Inf),
   labels = c(1, 2, 3, 4)
 )
+
+# categorize ndvi into 4 subcategories
+#sampled$NDVI <- cut(
+#  sampled$NDVI, 
+#  breaks = c(-Inf, 0.5, 0.6, 0.7, Inf),
+#  labels = c(1, 2, 3, 4)
+#)
 
 # change to factor
 sampled$SDC_015 <- as.factor(sampled$SDC_015)

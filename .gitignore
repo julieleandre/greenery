@@ -1,2 +1,4 @@
-*.csv
-*.xlsx
+dataset_old/
+3mt/
+opioid/
+testing/
