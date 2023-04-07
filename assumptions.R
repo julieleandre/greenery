@@ -8,7 +8,7 @@ library(ggpubr)
 
 alpha <- 0.05
 
-data <- read.csv("C:\\Users\\xia_t\\Desktop\\Projects\\youreka\\greenery_mentalhealth_subset.csv")
+data <- read.csv("C:\\Users\\xia_t\\Desktop\\Projects\\youreka\\dataset\\all_subsetted.csv")
 # data = read.csv("C:\\Users\\xia_t\\Desktop\\Projects\\youreka\\assumptions.csv")
 
 filtered <- data %>%

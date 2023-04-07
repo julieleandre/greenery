@@ -6,7 +6,7 @@ library(ggplot2)
 library(MASS)
 library(ggpubr)
 
-data <- read.csv("C:\\Users\\xia_t\\Desktop\\Projects\\youreka\\greenery_mentalhealth_subset.csv")
+data <- read.csv("C:\\Users\\xia_t\\Desktop\\Projects\\youreka\\dataset\\all_subsetted.csv")
 # data = read.csv("C:\\Users\\xia_t\\Desktop\\Projects\\youreka\\assumptions.csv")
 
 filtered <- data %>%
@@ -16,7 +16,7 @@ filtered <- data %>%
 
 # set.seed(605)
 
-alpha = 0.1
+alpha = 0.05
 
 a <- 100
 b <- 100
