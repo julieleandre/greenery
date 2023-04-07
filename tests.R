@@ -28,12 +28,7 @@ filtered$NDVI <- cut(
 set.seed(14430)
 sampled <- filtered %>%
     group_by(SDC_015) %>%
-    sample_n(1400, replace = FALSE)
-
-set.seed(14430)
-sampled <- sampled %>%
-    group_by(NDVI) %>%
-    sample_n(300, replace = FALSE)
+    sample_n(1000, replace = FALSE)
 
 # change SDC_015 and NDVI to factor
 sampled$SDC_015 <- as.factor(sampled$SDC_015)
