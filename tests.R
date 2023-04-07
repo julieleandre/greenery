@@ -25,7 +25,7 @@ filtered$NDVI <- cut(
 )
 
 # balance dataset by SDC_015 and NVDI
-set.seed(14430)
+# set.seed(14430)
 sampled <- filtered %>%
     group_by(SDC_015) %>%
     sample_n(1000, replace = FALSE)
