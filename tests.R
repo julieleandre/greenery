@@ -35,6 +35,7 @@ sampled$NDVI <- as.factor(sampled$NDVI)
 b <- boxcox(lm(sampled$GEN_015 ~ 1), plotit = FALSE)
 lambda <- b$x[which.max(b$y)]
 lambda <- round(lambda / 0.5) * 0.5
+lambda <- -0.1
 if (lambda == 0) {
   sampled$GEN_015 <- log(sampled$GEN_015)
 } else {
@@ -54,10 +55,11 @@ leveneTest(GEN_015 ~ SDC_015 * NDVI, data = analysis_data)
 ggqqplot(analysis_data$GEN_015)
 
 # two way ANOVA
-two_way_results.aov <- aov(GEN_015 ~ SDC_015 + NDVI + SDC_015:NDVI, data = analysis_data)
+two_way_results.aov <- aov(GEN_015 ~ SDC_015 * NDVI, data = analysis_data)
 summary(two_way_results.aov)
 
 # post-hoc tests
 alpha <- 0.05
 TukeyHSD(two_way_results.aov, which = "SDC_015", conf.level = (1 - alpha))
 TukeyHSD(two_way_results.aov, which = "NDVI", conf.level = (1 - alpha))
+TukeyHSD(two_way_results.aov, which = "SDC_015:NDVI", conf.level = (1 - alpha))
