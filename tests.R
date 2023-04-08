@@ -45,9 +45,6 @@ if (lambda == 0) {
 # rename
 analysis_data <- sampled
 
-# boxplot(analysis_data$GEN_015 ~ analysis_data$SDC_015)
-# boxplot(analysis_data$GEN_015 ~ analysis_data$NDVI)
-
 # homogeneity of variance
 leveneTest(GEN_015 ~ SDC_015 * NDVI, data = analysis_data)
 
