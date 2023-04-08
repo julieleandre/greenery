@@ -6,7 +6,7 @@ library(ggplot2)
 library(MASS)
 library(ggpubr)
 
-data <- read.csv("C:\\Users\\xia_t\\Desktop\\Projects\\youreka\\dataset\\all_subsetted.csv")
+data <- read.csv("C:\\Users\\xia_t\\Desktop\\Projects\\youreka\\dataset\\all_subsetted_group.csv")
 
 # filter mental health and indigenous status
 filtered <- data %>%
@@ -26,9 +26,10 @@ filtered$NDVI <- cut(
 
 # balance dataset by SDC_015 and NVDI
 # set.seed(14430)
-sampled <- filtered %>%
-    group_by(SDC_015) %>%
-    sample_n(1000, replace = FALSE)
+#sampled <- filtered %>%
+#    group_by(SDC_015) %>%
+#    sample_n(1000, replace = FALSE)
+sampled <- filtered
 
 # change SDC_015 and NDVI to factor
 sampled$SDC_015 <- as.factor(sampled$SDC_015)

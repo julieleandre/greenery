@@ -1,3 +1,997 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3845805a626ea54f4f3f285ab4c9b4f97bf13cf3cb1343e0a8d26258dd9bf07c
-size 177575
+,REF_DATE,GEODGHR4_NDVI_LABEL,DGUID,Population centre size,Urban greenness,UOM,UOM_ID,SCALAR_FACTOR,SCALAR_ID,VECTOR,COORDINATE,NDVI,STATUS,SYMBOL,TERMINATED,DECIMALS
+36361,2018,"Bay Roberts, Newfoundland and Labrador",2016S05100046,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005739,1.3.2,0.729,,,,4
+36363,2018,"Bishop's Falls, Newfoundland and Labrador",2016S05100072,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005741,2.3.2,0.7339,,,,4
+36365,2018,"Bonavista, Newfoundland and Labrador",2016S05100082,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005743,3.3.2,0.721,,,,4
+36367,2018,"Botwood, Newfoundland and Labrador",2016S05100084,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005745,4.3.2,0.6782,,,,4
+36369,2018,"Burgeo, Newfoundland and Labrador",2016S05100107,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005747,5.3.2,0.7362,,,,4
+36371,2018,"Carbonear, Newfoundland and Labrador",2016S05100136,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005749,6.3.2,0.7643,,,,4
+36373,2018,"Channel-Port aux Basques, Newfoundland and Labrador",2016S05100155,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005751,7.3.2,0.6814,,,,4
+36375,2018,"Clarenville-Shoal Harbour, Newfoundland and Labrador",2016S05100182,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005753,8.3.2,0.6893,,,,4
+36377,2018,"Corner Brook, Newfoundland and Labrador",2016S05100204,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005755,9.3.2,0.6684,,,,4
+36379,2018,"Deer Lake, Newfoundland and Labrador",2016S05100219,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005757,10.3.2,0.6469,,,,4
+36381,2018,"Fortune, Newfoundland and Labrador",2016S05100300,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005759,11.3.2,0.6136,,,,4
+36383,2018,"Gander, Newfoundland and Labrador",2016S05100311,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005761,12.3.2,0.6168,,,,4
+36385,2018,"Grand Bank, Newfoundland and Labrador",2016S05100329,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005763,13.3.2,0.6523,,,,4
+36387,2018,"Grand Falls-Windsor, Newfoundland and Labrador",2016S05100332,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005765,14.3.2,0.6414,,,,4
+36389,2018,"Happy Valley-Goose Bay, Newfoundland and Labrador",2016S05100354,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005767,15.3.2,0.5457,,,,4
+36391,2018,"Humber Arm South, Newfoundland and Labrador",2016S05101285,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005769,16.3.2,0.784,,,,4
+36393,2018,"Labrador City, Newfoundland and Labrador",2016S05100438,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005771,17.3.2,0.5437,,,,4
+36395,2018,"Lewisporte, Newfoundland and Labrador",2016S05100469,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005773,18.3.2,0.6364,,,,4
+36397,2018,"Marystown, Newfoundland and Labrador",2016S05100509,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005775,19.3.2,0.6854,,,,4
+36399,2018,"Massey Drive, Newfoundland and Labrador",2016S05101444,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005777,20.3.2,0.703,,,,4
+36401,2018,"Pasadena, Newfoundland and Labrador",2016S05101203,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005779,21.3.2,0.7018,,,,4
+36403,2018,"Placentia, Newfoundland and Labrador",2016S05101575,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005781,22.3.2,0.7028,,,,4
+36405,2018,"Springdale, Newfoundland and Labrador",2016S05100778,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005783,23.3.2,0.6566,,,,4
+36407,2018,"St. Anthony, Newfoundland and Labrador",2016S05100786,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005785,24.3.2,0.7455,,,,4
+36409,2018,"St. John's, Newfoundland and Labrador",2016S05100792,Large urban population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005787,25.1.2,0.6787,,,,4
+36411,2018,"Stephenville, Newfoundland and Labrador",2016S05100888,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005789,26.3.2,0.7066,,,,4
+36413,2018,"Upper Island Cove, Newfoundland and Labrador",2016S05101445,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005791,27.3.2,0.7645,,,,4
+36415,2018,"Wabana, Newfoundland and Labrador",2016S05100994,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005793,28.3.2,0.8033,,,,4
+36417,2018,"Charlottetown, Prince Edward Island",2016S05100159,Medium population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005795,29.2.2,0.6756,,,,4
+36419,2018,"Cornwall, Prince Edward Island",2016S05101121,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005797,30.3.2,0.6969,,,,4
+36421,2018,"Kensington, Prince Edward Island",2016S05100407,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005799,31.3.2,0.7127,,,,4
+36423,2018,"Montague, Prince Edward Island",2016S05100544,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005801,32.3.2,0.6933,,,,4
+36425,2018,"Summerside, Prince Edward Island",2016S05100905,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005803,33.3.2,0.6746,,,,4
+36427,2018,"Amherst, Nova Scotia",2016S05100012,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005805,34.3.2,0.7064,,,,4
+36429,2018,"Antigonish, Nova Scotia",2016S05100019,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005807,35.3.2,0.7058,,,,4
+36431,2018,"Berwick, Nova Scotia",2016S05100069,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005809,36.3.2,0.7528,,,,4
+36433,2018,"Bridgewater, Nova Scotia",2016S05100096,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005811,37.3.2,0.7373,,,,4
+36435,2018,"Brookside, Nova Scotia",2016S05101353,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005813,38.3.2,0.7643,,,,4
+36437,2018,"Cape Breton - Sydney, Nova Scotia",2016S05100913,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005815,39.3.2,0.6818,,,,4
+36439,2018,"Centreville, Nova Scotia",2016S05101446,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005817,40.3.2,0.8065,,,,4
+36441,2018,"Chester, Nova Scotia",2016S05100171,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005819,41.3.2,0.7646,,,,4
+36443,2018,"Digby, Nova Scotia",2016S05100229,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005821,42.3.2,0.6858,,,,4
+36445,2018,"Enfield - Lantz, Nova Scotia",2016S05101447,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005823,43.3.2,0.7514,,,,4
+36447,2018,"English Corner, Nova Scotia",2016S05101448,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005825,44.3.2,0.7805,,,,4
+36449,2018,"Eskasoni 3, Nova Scotia",2016S05101449,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005827,45.3.2,0.7382,,,,4
+36451,2018,"Glace Bay, Nova Scotia",2016S05100318,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005829,46.3.2,0.779,,,,4
+36453,2018,"Halifax, Nova Scotia",2016S05100348,Large urban population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005831,47.1.2,0.6843,,,,4
+36455,2018,"Hantsport, Nova Scotia",2016S05100353,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005833,48.3.2,0.727,,,,4
+36457,2018,"Hayes Subdivision, Nova Scotia",2016S05101343,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005835,49.3.2,0.7677,,,,4
+36459,2018,"Howie Centre, Nova Scotia",2016S05101574,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005837,50.3.2,0.8234,,,,4
+36461,2018,"Inverness, Nova Scotia",2016S05100390,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005839,51.3.2,0.7873,,,,4
+36463,2018,"Kentville, Nova Scotia",2016S05100408,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005841,52.3.2,0.7578,,,,4
+36465,2018,"Kingston - Greenwood, Nova Scotia",2016S05100416,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005843,53.3.2,0.7357,,,,4
+36467,2018,"Lake Echo, Nova Scotia",2016S05101267,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005845,54.3.2,0.8019,,,,4
+36469,2018,"Liverpool, Nova Scotia",2016S05100477,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005847,55.3.2,0.7625,,,,4
+36471,2018,"Lunenburg, Nova Scotia",2016S05100490,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005849,56.3.2,0.7332,,,,4
+36473,2018,"Middleton, Nova Scotia",2016S05100530,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005851,57.3.2,0.7526,,,,4
+36475,2018,"New Glasgow, Nova Scotia",2016S05100577,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005853,58.3.2,0.7485,,,,4
+36477,2018,"New Waterford, Nova Scotia",2016S05100581,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005855,59.3.2,0.7678,,,,4
+36479,2018,"Pictou, Nova Scotia",2016S05100642,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005857,60.3.2,0.7552,,,,4
+36481,2018,"Port Hawkesbury, Nova Scotia",2016S05100661,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005859,61.3.2,0.6595,,,,4
+36483,2018,"Port Williams, Nova Scotia",2016S05101450,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005861,62.3.2,0.7698,,,,4
+36485,2018,"Shelburne, Nova Scotia",2016S05100754,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005863,63.3.2,0.7345,,,,4
+36487,2018,"Springhill, Nova Scotia",2016S05100779,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005865,64.3.2,0.7822,,,,4
+36489,2018,"Still Water Lake, Nova Scotia",2016S05101394,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005867,65.3.2,0.7988,,,,4
+36491,2018,"Sydney Mines, Nova Scotia",2016S05100914,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005869,66.3.2,0.7632,,,,4
+36493,2018,"Truro, Nova Scotia",2016S05100955,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005871,67.3.2,0.7275,,,,4
+36495,2018,"Windsor, Nova Scotia",2016S05101030,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005873,68.3.2,0.7464,,,,4
+36497,2018,"Wolfville, Nova Scotia",2016S05101037,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005875,69.3.2,0.7344,,,,4
+36499,2018,"Yarmouth, Nova Scotia",2016S05101043,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005877,70.3.2,0.7173,,,,4
+36501,2018,"Bathurst, New Brunswick",2016S05100045,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005879,71.3.2,0.7249,,,,4
+36503,2018,"Bouctouche, New Brunswick",2016S05100105,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005881,72.3.2,0.7232,,,,4
+36505,2018,"Campbellton, New Brunswick",2016S0511130122,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005883,73.3.2,0.7157,,,,4
+36507,2018,"Caraquet, New Brunswick",2016S05100134,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005885,74.3.2,0.699,,,,4
+36509,2018,"Chatham - Douglastown, New Brunswick",2016S05101105,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005887,75.3.2,0.696,,,,4
+36511,2018,"Dalhousie, New Brunswick",2016S05100214,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005889,76.3.2,0.623,,,,4
+36513,2018,"Edmundston, New Brunswick",2016S05100253,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005891,77.3.2,0.6928,,,,4
+36515,2018,"Fredericton, New Brunswick",2016S05100305,Medium population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005893,78.2.2,0.7374,,,,4
+36517,2018,"Grand Falls, New Brunswick",2016S05100331,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005895,79.3.2,0.6256,,,,4
+36519,2018,"Hampton, New Brunswick",2016S05100350,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005897,80.3.2,0.7636,,,,4
+36521,2018,"McEwen, New Brunswick",2016S05101352,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005899,81.3.2,0.6916,,,,4
+36523,2018,"Moncton, New Brunswick",2016S05100539,Large urban population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005901,82.1.2,0.6826,,,,4
+36525,2018,"New Maryland, New Brunswick",2016S05101451,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005903,83.3.2,0.7887,,,,4
+36527,2018,"Oromocto, New Brunswick",2016S05100612,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005905,84.3.2,0.715,,,,4
+36529,2018,"Quispamsis - Rothesay, New Brunswick",2016S05101452,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005907,85.3.2,0.7171,,,,4
+36531,2018,"Richibucto 15, New Brunswick",2016S05101453,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005909,86.3.2,0.7397,,,,4
+36533,2018,"Sackville, New Brunswick",2016S05100732,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005911,87.3.2,0.722,,,,4
+36535,2018,"Saint Andrews, New Brunswick",2016S05100784,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005913,88.3.2,0.755,,,,4
+36537,2018,"Saint John, New Brunswick",2016S05100734,Medium population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005915,89.2.2,0.6651,,,,4
+36539,2018,"Saint-Antoine, New Brunswick",2016S05101454,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005917,90.3.2,0.7559,,,,4
+36541,2018,"Saint-Quentin, New Brunswick",2016S05100797,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005919,91.3.2,0.6906,,,,4
+36543,2018,"Salisbury, New Brunswick",2016S05100735,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005921,92.3.2,0.7623,,,,4
+36545,2018,"Shediac, New Brunswick",2016S05100753,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005923,93.3.2,0.703,,,,4
+36547,2018,"Shippagan, New Brunswick",2016S05100760,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005925,94.3.2,0.6716,,,,4
+36549,2018,"St. Leonard, New Brunswick",2016S05101158,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005927,95.3.2,0.7034,,,,4
+36551,2018,"St. Stephen, New Brunswick",2016S05100798,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005929,96.3.2,0.7079,,,,4
+36553,2018,"Starlight Village, New Brunswick",2016S05101395,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005931,97.3.2,0.8169,,,,4
+36555,2018,"Sussex, New Brunswick",2016S05100907,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005933,98.3.2,0.7196,,,,4
+36557,2018,"Tracadie-Sheila, New Brunswick",2016S05100946,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005935,99.3.2,0.7295,,,,4
+36559,2018,"Wells, New Brunswick",2016S05101455,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005937,100.3.2,0.7882,,,,4
+36561,2018,"Woodstock, New Brunswick",2016S05101038,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005939,101.3.2,0.6514,,,,4
+36563,2018,"Acton Vale, Quebec",2016S05100002,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005941,102.3.2,0.631,,,,4
+36565,2018,"Alençon, Quebec",2016S05100005,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005943,103.3.2,0.7451,,,,4
+36567,2018,"Alma, Quebec",2016S05100009,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005945,104.3.2,0.5981,,,,4
+36569,2018,"Amos, Quebec",2016S05100015,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005947,105.3.2,0.6079,,,,4
+36571,2018,"Amqui, Quebec",2016S05100016,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005949,106.3.2,0.6686,,,,4
+36573,2018,"Angers, Quebec",2016S05101456,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005951,107.3.2,0.7024,,,,4
+36575,2018,"Asbestos, Quebec",2016S05100023,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005953,108.3.2,0.645,,,,4
+36577,2018,"Baie-Comeau, Quebec",2016S05100036,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005955,109.3.2,0.6396,,,,4
+36579,2018,"Baie-Saint-Paul, Quebec",2016S05100037,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005957,110.3.2,0.583,,,,4
+36581,2018,"Barraute, Quebec",2016S05100041,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005959,111.3.2,0.6564,,,,4
+36583,2018,"Beauceville, Quebec",2016S05100047,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005961,112.3.2,0.73,,,,4
+36585,2018,"Beaumont, Quebec",2016S05101457,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005963,113.3.2,0.6989,,,,4
+36587,2018,"Beaupré, Quebec",2016S05100050,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005965,114.3.2,0.722,,,,4
+36589,2018,"Bedford, Quebec",2016S05100056,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005967,115.3.2,0.7409,,,,4
+36591,2018,"Beloeil, Quebec",2016S05100063,Medium population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005969,116.2.2,0.6347,,,,4
+36593,2018,"Berthierville, Quebec",2016S05100067,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005971,117.3.2,0.6478,,,,4
+36595,2018,"Betsiamites, Quebec",2016S05101338,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005973,118.3.2,0.576,,,,4
+36597,2018,"Black Lake, Quebec",2016S05101458,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005975,119.3.2,0.6713,,,,4
+36599,2018,"Bonaventure, Quebec",2016S05100081,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005977,120.3.2,0.6868,,,,4
+36601,2018,"Bromont, Quebec",2016S05101359,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005979,121.3.2,0.7894,,,,4
+36603,2018,"Bromptonville, Quebec",2016S05101459,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005981,122.3.2,0.7406,,,,4
+36605,2018,"Brownsburg, Quebec",2016S05101205,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005983,123.3.2,0.6814,,,,4
+36607,2018,"Buckingham, Quebec",2016S05101051,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005985,124.3.2,0.7548,,,,4
+36609,2018,"Cabano, Quebec",2016S05100111,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005987,125.3.2,0.6035,,,,4
+36611,2018,"Campbellton, Quebec",2016S0511240122,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005989,126.3.2,0.6715,,,,4
+36613,2018,"Cap-aux-Meules, Quebec",2016S05100129,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005991,127.3.2,0.6957,,,,4
+36615,2018,"Cap-Chat, Quebec",2016S05100130,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005993,128.3.2,0.7381,,,,4
+36617,2018,"Cap-Saint-Ignace, Quebec",2016S05101460,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005995,129.3.2,0.7129,,,,4
+36619,2018,"Carleton, Quebec",2016S05101337,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005997,130.3.2,0.6047,,,,4
+36621,2018,"Causapscal, Quebec",2016S05100149,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288005999,131.3.2,0.7277,,,,4
+36623,2018,"Chandler, Quebec",2016S05100154,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006001,132.3.2,0.6382,,,,4
+36625,2018,"Chapais, Quebec",2016S05100156,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006003,133.3.2,0.5246,,,,4
+36627,2018,"Châteauguay, Quebec",2016S05101177,Medium population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006005,134.2.2,0.6851,,,,4
+36629,2018,"Château-Richer, Quebec",2016S05100162,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006007,135.3.2,0.6773,,,,4
+36631,2018,"Chibougamau, Quebec",2016S05100175,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006009,136.3.2,0.5634,,,,4
+36633,2018,"Chicoutimi - Jonquière, Quebec",2016S05100176,Large urban population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006011,137.1.2,0.6487,,,,4
+36635,2018,"Chisasibi, Quebec",2016S05101340,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006013,138.3.2,0.493,,,,4
+36637,2018,"Chute-aux-Outardes, Quebec",2016S05100181,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006015,139.3.2,0.5539,,,,4
+36639,2018,"Clermont, Quebec",2016S05100186,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006017,140.3.2,0.6814,,,,4
+36641,2018,"Coaticook, Quebec",2016S05100189,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006019,141.3.2,0.7331,,,,4
+36643,2018,"Contrecoeur, Quebec",2016S05100201,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006021,142.3.2,0.6543,,,,4
+36645,2018,"Cookshire, Quebec",2016S05100202,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006023,143.3.2,0.7969,,,,4
+36647,2018,"Cowansville, Quebec",2016S05100208,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006025,144.3.2,0.7597,,,,4
+36649,2018,"Crabtree, Quebec",2016S05100209,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006027,145.3.2,0.6566,,,,4
+36651,2018,"Danville, Quebec",2016S05101186,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006029,146.3.2,0.7896,,,,4
+36653,2018,"Daveluyville, Quebec",2016S05101123,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006031,147.3.2,0.7508,,,,4
+36655,2018,"Dégelis, Quebec",2016S05100220,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006033,148.3.2,0.6106,,,,4
+36657,2018,"Disraeli, Quebec",2016S05100230,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006035,149.3.2,0.629,,,,4
+36659,2018,"Dolbeau, Quebec",2016S05100231,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006037,150.3.2,0.5504,,,,4
+36661,2018,"Domaine-C.-L.-C., Quebec",2016S05101435,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006039,151.3.2,0.7767,,,,4
+36663,2018,"Domaine-Ouellet, Quebec",2016S05101399,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006041,152.3.2,0.6457,,,,4
+36665,2018,"Donnacona, Quebec",2016S05100233,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006043,153.3.2,0.7208,,,,4
+36667,2018,"Drummondville, Quebec",2016S05100240,Medium population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006045,154.2.2,0.6358,,,,4
+36669,2018,"East Angus, Quebec",2016S05100250,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006047,155.3.2,0.762,,,,4
+36671,2018,"East Broughton, Quebec",2016S05100251,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006049,156.3.2,0.7137,,,,4
+36673,2018,"Évain, Quebec",2016S05101462,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006051,157.3.2,0.7258,,,,4
+36675,2018,"Farnham, Quebec",2016S05100276,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006053,158.3.2,0.69,,,,4
+36677,2018,"Ferme-Neuve, Quebec",2016S05100279,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006055,159.3.2,0.707,,,,4
+36679,2018,"Fermont, Quebec",2016S05101061,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006057,160.3.2,0.5042,,,,4
+36681,2018,"Filion, Quebec",2016S05101318,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006059,161.3.2,0.694,,,,4
+36683,2018,"Forestville, Quebec",2016S05100286,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006061,162.3.2,0.5343,,,,4
+36685,2018,"Fort-Coulonge, Quebec",2016S05100299,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006063,163.3.2,0.7239,,,,4
+36687,2018,"Fossambault-sur-le-Lac, Quebec",2016S05101463,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006065,164.3.2,0.8045,,,,4
+36689,2018,"Gaspé, Quebec",2016S05101064,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006067,165.3.2,0.7584,,,,4
+36691,2018,"Gentilly, Quebec",2016S05100054,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006069,166.3.2,0.7041,,,,4
+36693,2018,"Godefroy, Quebec",2016S05101464,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006071,167.3.2,0.6475,,,,4
+36695,2018,"Granby, Quebec",2016S05100328,Medium population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006073,168.2.2,0.7075,,,,4
+36697,2018,"Grande-Rivière, Quebec",2016S05100337,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006075,169.3.2,0.7588,,,,4
+36699,2018,"Hauterive, Quebec",2016S05101284,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006077,170.3.2,0.5675,,,,4
+36701,2018,"Havre-Saint-Pierre, Quebec",2016S05100364,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006079,171.3.2,0.5022,,,,4
+36703,2018,"Hawkesbury, Quebec",2016S0511240365,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006081,172.3.2,0.6695,,,,4
+36705,2018,"Hébertville, Quebec",2016S05100561,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006083,173.3.2,0.6469,,,,4
+36707,2018,"Hudson, Quebec",2016S05100379,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006085,174.3.2,0.8198,,,,4
+36709,2018,"Huntingdon, Quebec",2016S05100382,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006087,175.3.2,0.7079,,,,4
+36711,2018,"Inukjuak, Quebec",2016S05101465,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006089,176.3.2,0.3374,,,,4
+36713,2018,"Joliette, Quebec",2016S05100396,Medium population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006091,177.2.2,0.6743,,,,4
+36715,2018,"Kingsey Falls, Quebec",2016S05101287,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006093,178.3.2,0.7423,,,,4
+36717,2018,"Kuujjuaq, Quebec",2016S05101466,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006095,179.3.2,0.396,,,,4
+36719,2018,"La Malbaie, Quebec",2016S05100430,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006097,180.3.2,0.6513,,,,4
+36721,2018,"La Pocatière, Quebec",2016S05100432,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006099,181.3.2,0.6408,,,,4
+36723,2018,"La Sarre, Quebec",2016S05100434,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006101,182.3.2,0.5418,,,,4
+36725,2018,"La Tuque, Quebec",2016S05100435,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006103,183.3.2,0.6275,,,,4
+36727,2018,"Labelle, Quebec",2016S05100437,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006105,184.3.2,0.6847,,,,4
+36729,2018,"Lac-Alouette, Quebec",2016S05101334,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006107,185.3.2,0.8111,,,,4
+36731,2018,"Lac-Connelly, Quebec",2016S05101467,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006109,186.3.2,0.7954,,,,4
+36733,2018,"Lac-Etchemin, Quebec",2016S05100442,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006111,187.3.2,0.6901,,,,4
+36735,2018,"Lachute, Quebec",2016S05100444,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006113,188.3.2,0.7239,,,,4
+36737,2018,"Lac-Lapierre, Quebec",2016S05101252,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006115,189.3.2,0.759,,,,4
+36739,2018,"Lac-Mégantic, Quebec",2016S05100443,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006117,190.3.2,0.7175,,,,4
+36741,2018,"Lacolle, Quebec",2016S05100445,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006119,191.3.2,0.7396,,,,4
+36743,2018,"Lac-Simon, Quebec",2016S05101400,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006121,192.3.2,0.7688,,,,4
+36745,2018,"L'Ange-Gardien, Quebec",2016S05101437,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006123,193.3.2,0.7455,,,,4
+36747,2018,"L'Assomption, Quebec",2016S05100423,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006125,194.3.2,0.665,,,,4
+36749,2018,"Laurentides, Quebec",2016S05100458,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006127,195.3.2,0.6813,,,,4
+36751,2018,"Laurier-Station, Quebec",2016S05101286,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006129,196.3.2,0.6784,,,,4
+36753,2018,"Lavaltrie, Quebec",2016S05100460,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006131,197.3.2,0.6446,,,,4
+36755,2018,"Le Bic, Quebec",2016S05101238,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006133,198.3.2,0.6794,,,,4
+36757,2018,"Lebel-sur-Quévillon, Quebec",2016S05100464,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006135,199.3.2,0.6366,,,,4
+36759,2018,"LeBlanc, Quebec",2016S05101468,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006137,200.3.2,0.7734,,,,4
+36761,2018,"L'Épiphanie, Quebec",2016S05100424,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006139,201.3.2,0.7525,,,,4
+36763,2018,"Les Cèdres, Quebec",2016S05101361,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006141,202.3.2,0.6638,,,,4
+36765,2018,"Les Coteaux, Quebec",2016S05101127,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006143,203.3.2,0.7388,,,,4
+36767,2018,"Les Escoumins, Quebec",2016S05100266,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006145,204.3.2,0.6105,,,,4
+36769,2018,"Linière, Quebec",2016S05100473,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006147,205.3.2,0.7275,,,,4
+36771,2018,"Louiseville, Quebec",2016S05100485,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006149,206.3.2,0.5966,,,,4
+36773,2018,"Luceville, Quebec",2016S05100488,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006151,207.3.2,0.6541,,,,4
+36775,2018,"Macamic, Quebec",2016S05100492,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006153,208.3.2,0.6591,,,,4
+36777,2018,"Magog, Quebec",2016S05100495,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006155,209.3.2,0.6933,,,,4
+36779,2018,"Malartic, Quebec",2016S05100498,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006157,210.3.2,0.558,,,,4
+36781,2018,"Maliotenam, Quebec",2016S05101396,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006159,211.3.2,0.4749,,,,4
+36783,2018,"Manawan, Quebec",2016S05101433,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006161,212.3.2,0.697,,,,4
+36785,2018,"Maniwaki, Quebec",2016S05100500,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006163,213.3.2,0.6639,,,,4
+36787,2018,"Maria, Quebec",2016S05101469,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006165,214.3.2,0.6097,,,,4
+36789,2018,"Marieville, Quebec",2016S05100505,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006167,215.3.2,0.6175,,,,4
+36791,2018,"Maskinongé, Quebec",2016S05101145,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006169,216.3.2,0.7081,,,,4
+36793,2018,"Matagami, Quebec",2016S05100514,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006171,217.3.2,0.6052,,,,4
+36795,2018,"Matane, Quebec",2016S05100515,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006173,218.3.2,0.5931,,,,4
+36797,2018,"Melocheville, Quebec",2016S05101470,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006175,219.3.2,0.6597,,,,4
+36799,2018,"Métabetchouan, Quebec",2016S05100841,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006177,220.3.2,0.62,,,,4
+36801,2018,"Mistissini, Quebec",2016S05101339,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006179,221.3.2,0.597,,,,4
+36803,2018,"Mont-Joli, Quebec",2016S05100540,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006181,222.3.2,0.6321,,,,4
+36805,2018,"Mont-Laurier, Quebec",2016S05100541,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006183,223.3.2,0.7006,,,,4
+36807,2018,"Montmagny, Quebec",2016S05100546,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006185,224.3.2,0.6016,,,,4
+36809,2018,"Montréal, Quebec",2016S05100547,Large urban population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006187,225.1.2,0.5675,,,,4
+36811,2018,"Napierville, Quebec",2016S05100570,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006189,226.3.2,0.7316,,,,4
+36813,2018,"Neuville, Quebec",2016S05101471,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006191,227.3.2,0.7325,,,,4
+36815,2018,"New Richmond, Quebec",2016S05100580,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006193,228.3.2,0.7835,,,,4
+36817,2018,"Nicolet, Quebec",2016S05100587,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006195,229.3.2,0.7136,,,,4
+36819,2018,"Normandin, Quebec",2016S05100591,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006197,230.3.2,0.6143,,,,4
+36821,2018,"Notre-Dame-du-Bon-Conseil, Quebec",2016S05100564,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006199,231.3.2,0.6815,,,,4
+36823,2018,"Notre-Dame-du-Lac, Quebec",2016S05100565,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006201,232.3.2,0.6632,,,,4
+36825,2018,"Notre-Dame-du-Mont-Carmel, Quebec",2016S05101341,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006203,233.3.2,0.7154,,,,4
+36827,2018,"Obedjiwan, Quebec",2016S05101472,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006205,234.3.2,0.5526,,,,4
+36829,2018,"Oka, Quebec",2016S05101362,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006207,235.3.2,0.6502,,,,4
+36831,2018,"Ormstown, Quebec",2016S05100611,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006209,236.3.2,0.7373,,,,4
+36833,2018,"Ottawa - Gatineau, Quebec",2016S0511240616,Large urban population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006211,237.1.2,0.6914,,,,4
+36835,2018,"Papineauville, Quebec",2016S05100623,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006213,238.3.2,0.6833,,,,4
+36837,2018,"Parc-Boutin, Quebec",2016S05101473,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006215,239.3.2,0.8356,,,,4
+36839,2018,"Pierreville, Quebec",2016S05100644,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006217,240.3.2,0.771,,,,4
+36841,2018,"Plessisville, Quebec",2016S05100651,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006219,241.3.2,0.6283,,,,4
+36843,2018,"Pointe-du-Lac, Quebec",2016S05101474,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006221,242.3.2,0.7779,,,,4
+36845,2018,"Pont-Rouge, Quebec",2016S05100653,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006223,243.3.2,0.7245,,,,4
+36847,2018,"Port-Alfred-Bagotville, Quebec",2016S05101072,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006225,244.3.2,0.6262,,,,4
+36849,2018,"Port-Cartier, Quebec",2016S05100668,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006227,245.3.2,0.5869,,,,4
+36851,2018,"Portneuf, Quebec",2016S05100670,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006229,246.3.2,0.7351,,,,4
+36853,2018,"Price, Quebec",2016S05100677,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006231,247.3.2,0.645,,,,4
+36855,2018,"Princeville, Quebec",2016S05100682,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006233,248.3.2,0.6663,,,,4
+36859,2018,"Québec, Quebec",2016S05100685,Large urban population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006237,250.1.2,0.6722,,,,4
+36861,2018,"Rawdon, Quebec",2016S05100692,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006239,251.3.2,0.7534,,,,4
+36863,2018,"Richmond, Quebec",2016S05100705,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006241,252.3.2,0.7423,,,,4
+36865,2018,"Rigaud, Quebec",2016S05100707,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006243,253.3.2,0.7104,,,,4
+36867,2018,"Rimouski, Quebec",2016S05100709,Medium population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006245,254.2.2,0.5668,,,,4
+36869,2018,"Rivière-au-Renard, Quebec",2016S05101066,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006247,255.3.2,0.6714,,,,4
+36871,2018,"Rivière-du-Loup, Quebec",2016S05100712,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006249,256.3.2,0.6298,,,,4
+36873,2018,"Roberval, Quebec",2016S05100715,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006251,257.3.2,0.5733,,,,4
+36875,2018,"Rougemont, Quebec",2016S05101332,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006253,258.3.2,0.6897,,,,4
+36877,2018,"Rouyn-Noranda, Quebec",2016S05100728,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006255,259.3.2,0.584,,,,4
+36879,2018,"Roxton Falls, Quebec",2016S05100729,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006257,260.3.2,0.787,,,,4
+36881,2018,"Roxton Pond, Quebec",2016S05101333,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006259,261.3.2,0.7482,,,,4
+36883,2018,"Saint Grégoire, Quebec",2016S05101358,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006261,262.3.2,0.5706,,,,4
+36885,2018,"Saint-Agapit, Quebec",2016S05100800,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006263,263.3.2,0.6717,,,,4
+36887,2018,"Saint-Alexandre, Quebec",2016S05101277,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006265,264.3.2,0.679,,,,4
+36889,2018,"Saint-Alexandre, Quebec",2016S05101438,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006267,265.3.2,0.7486,,,,4
+36891,2018,"Saint-Alexis-des-Monts, Quebec",2016S05100801,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006269,266.3.2,0.7442,,,,4
+36893,2018,"Saint-Amable, Quebec",2016S05101477,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006271,267.3.2,0.6645,,,,4
+36895,2018,"Saint-Ambroise, Quebec",2016S05100802,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006273,268.3.2,0.6602,,,,4
+36897,2018,"Saint-Ambroise-de-Kildare, Quebec",2016S05101478,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006275,269.3.2,0.7398,,,,4
+36899,2018,"Saint-André-Avellin, Quebec",2016S05100803,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006277,270.3.2,0.7067,,,,4
+36901,2018,"Saint-Anselme, Quebec",2016S05100805,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006279,271.3.2,0.7319,,,,4
+36903,2018,"Saint-Apollinaire, Quebec",2016S05100302,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006281,272.3.2,0.741,,,,4
+36905,2018,"Saint-Augustin, Quebec",2016S05101363,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006283,273.3.2,0.7337,,,,4
+36907,2018,"Saint-Basile-Sud, Quebec",2016S05100807,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006285,274.3.2,0.7597,,,,4
+36909,2018,"Saint-Bernard, Quebec",2016S05101479,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006287,275.3.2,0.6742,,,,4
+36911,2018,"Saint-Boniface, Quebec",2016S05101480,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006289,276.3.2,0.6976,,,,4
+36913,2018,"Saint-Bruno, Quebec",2016S05100368,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006291,277.3.2,0.6652,,,,4
+36915,2018,"Saint-Canut, Quebec",2016S05101270,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006293,278.3.2,0.7943,,,,4
+36917,2018,"Saint-Césaire, Quebec",2016S05100811,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006295,279.3.2,0.6289,,,,4
+36919,2018,"Saint-Charles, Quebec",2016S05101432,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006297,280.3.2,0.6754,,,,4
+36921,2018,"Saint-Chrysostome, Quebec",2016S05101481,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006299,281.3.2,0.7509,,,,4
+36923,2018,"Saint-Cyrille-de-Wendover, Quebec",2016S05101148,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006301,282.3.2,0.7422,,,,4
+36925,2018,"Saint-Damase, Quebec",2016S05100815,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006303,283.3.2,0.6801,,,,4
+36927,2018,"Saint-Damien-de-Buckland, Quebec",2016S05100816,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006305,284.3.2,0.6998,,,,4
+36929,2018,"Saint-Donat-de-Montcalm, Quebec",2016S05100819,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006307,285.3.2,0.6844,,,,4
+36931,2018,"Sainte-Adèle, Quebec",2016S05100874,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006309,286.3.2,0.7857,,,,4
+36933,2018,"Sainte-Agathe-des-Monts - Val-David, Quebec",2016S05101482,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006311,287.3.2,0.7487,,,,4
+36935,2018,"Sainte-Anne-des-Monts, Quebec",2016S05100876,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006313,288.3.2,0.7243,,,,4
+36937,2018,"Sainte-Anne-des-Plaines, Quebec",2016S05101179,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006315,289.3.2,0.6346,,,,4
+36939,2018,"Sainte-Brigitte-de-Laval, Quebec",2016S05101483,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006317,290.3.2,0.7997,,,,4
+36941,2018,"Sainte-Catherine-de-la-Jacques-Cartier, Quebec",2016S05101398,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006319,291.3.2,0.6544,,,,4
+36943,2018,"Sainte-Claire, Quebec",2016S05100877,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006321,292.3.2,0.6893,,,,4
+36945,2018,"Sainte-Croix, Quebec",2016S05100878,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006323,293.3.2,0.7272,,,,4
+36947,2018,"Sainte-Julienne, Quebec",2016S05101184,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006325,294.3.2,0.814,,,,4
+36949,2018,"Sainte-Justine, Quebec",2016S05101154,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006327,295.3.2,0.761,,,,4
+36951,2018,"Saint-Elzéar, Quebec",2016S05101484,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006329,296.3.2,0.6802,,,,4
+36953,2018,"Sainte-Madeleine, Quebec",2016S05100881,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006331,297.3.2,0.72,,,,4
+36955,2018,"Sainte-Marie, Quebec",2016S05100882,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006333,298.3.2,0.6393,,,,4
+36957,2018,"Sainte-Martine, Quebec",2016S05100883,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006335,299.3.2,0.6764,,,,4
+36959,2018,"Saint-Éphrem-de-Tring, Quebec",2016S05101235,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006337,300.3.2,0.7315,,,,4
+36961,2018,"Sainte-Thècle, Quebec",2016S05100885,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006339,301.3.2,0.7469,,,,4
+36963,2018,"Saint-Fabien, Quebec",2016S05100822,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006341,302.3.2,0.6608,,,,4
+36965,2018,"Saint-Félicien, Quebec",2016S05100823,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006343,303.3.2,0.6164,,,,4
+36967,2018,"Saint-Félix-de-Valois, Quebec",2016S05100824,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006345,304.3.2,0.6969,,,,4
+36969,2018,"Saint-Gabriel, Quebec",2016S05100825,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006347,305.3.2,0.6825,,,,4
+36971,2018,"Saint-Gédéon, Quebec",2016S05100826,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006349,306.3.2,0.7406,,,,4
+36973,2018,"Saint-Georges, Quebec",2016S05100828,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006351,307.3.2,0.6742,,,,4
+36975,2018,"Saint-Germain-de-Grantham, Quebec",2016S05100830,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006353,308.3.2,0.7397,,,,4
+36977,2018,"Saint-Henri-de-Lévis, Quebec",2016S05100831,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006355,309.3.2,0.6127,,,,4
+36979,2018,"Saint-Honoré, Quebec",2016S05100832,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006357,310.3.2,0.702,,,,4
+36981,2018,"Saint-Hyacinthe, Quebec",2016S05100834,Medium population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006359,311.2.2,0.6048,,,,4
+36983,2018,"Saint-Jacques, Quebec",2016S05100835,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006361,312.3.2,0.7046,,,,4
+36985,2018,"Saint-Jean-Baptiste, Quebec",2016S05101485,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006363,313.3.2,0.6904,,,,4
+36987,2018,"Saint-Jean-Port-Joli, Quebec",2016S05100840,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006365,314.3.2,0.6052,,,,4
+36989,2018,"Saint-Jean-sur-Richelieu, Quebec",2016S05100836,Medium population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006367,315.2.2,0.6023,,,,4
+36991,2018,"Saint-Jérôme, Quebec",2016S05100842,Medium population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006369,316.2.2,0.7035,,,,4
+36993,2018,"Saint-Joseph-de-Beauce, Quebec",2016S05100844,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006371,317.3.2,0.67,,,,4
+36995,2018,"Saint-Joseph-de-Lanoraie, Quebec",2016S05100846,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006373,318.3.2,0.706,,,,4
+36997,2018,"Saint-Jovite, Quebec",2016S05100847,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006375,319.3.2,0.7179,,,,4
+36999,2018,"Saint-Léonard-d'Aston, Quebec",2016S05101486,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006377,320.3.2,0.6684,,,,4
+37001,2018,"Saint-Liboire, Quebec",2016S05101335,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006379,321.3.2,0.755,,,,4
+37003,2018,"Saint-Marc-des-Carrières, Quebec",2016S05100849,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006381,322.3.2,0.7157,,,,4
+37005,2018,"Saint-Martin, Quebec",2016S05100079,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006383,323.3.2,0.7647,,,,4
+37007,2018,"Saint-Michel, Quebec",2016S05101436,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006385,324.3.2,0.6834,,,,4
+37009,2018,"Saint-Michel-de-Bellechasse, Quebec",2016S05101487,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006387,325.3.2,0.6661,,,,4
+37011,2018,"Saint-Michel-des-Saints, Quebec",2016S05100850,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006389,326.3.2,0.7068,,,,4
+37013,2018,"Saint-Pascal, Quebec",2016S05100854,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006391,327.3.2,0.6589,,,,4
+37015,2018,"Saint-Pie, Quebec",2016S05100855,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006393,328.3.2,0.6817,,,,4
+37017,2018,"Saint-Polycarpe, Quebec",2016S05101488,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006395,329.3.2,0.6567,,,,4
+37019,2018,"Saint-Prime, Quebec",2016S05101489,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006397,330.3.2,0.628,,,,4
+37021,2018,"Saint-Prosper, Quebec",2016S05100857,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006399,331.3.2,0.7386,,,,4
+37023,2018,"Saint-Raphaël, Quebec",2016S05100858,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006401,332.3.2,0.7047,,,,4
+37025,2018,"Saint-Raymond, Quebec",2016S05100859,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006403,333.3.2,0.7087,,,,4
+37027,2018,"Saint-Rémi, Quebec",2016S05100861,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006405,334.3.2,0.5574,,,,4
+37029,2018,"Saint-Roch-de-l'Achigan, Quebec",2016S05101342,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006407,335.3.2,0.6266,,,,4
+37031,2018,"Saint-Sauveur-des-Monts, Quebec",2016S05100863,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006409,336.3.2,0.7505,,,,4
+37033,2018,"Saint-Sulpice, Quebec",2016S05101261,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006411,337.3.2,0.5664,,,,4
+37035,2018,"Saint-Thomas, Quebec",2016S05101490,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006413,338.3.2,0.606,,,,4
+37037,2018,"Saint-Tite, Quebec",2016S05100866,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006415,339.3.2,0.6695,,,,4
+37039,2018,"Salaberry-de-Valleyfield, Quebec",2016S05100971,Medium population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006417,340.2.2,0.6284,,,,4
+37043,2018,"Senneterre, Quebec",2016S05100746,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006421,342.3.2,0.7057,,,,4
+37045,2018,"Sept-Îles, Quebec",2016S05100748,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006423,343.3.2,0.5158,,,,4
+37047,2018,"Shannon, Quebec",2016S05101492,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006425,344.3.2,0.7276,,,,4
+37049,2018,"Shawinigan, Quebec",2016S05100750,Medium population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006427,345.2.2,0.6648,,,,4
+37051,2018,"Shawville, Quebec",2016S05100752,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006429,346.3.2,0.7061,,,,4
+37053,2018,"Sherbrooke, Quebec",2016S05100758,Large urban population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006431,347.1.2,0.6853,,,,4
+37055,2018,"Sorel, Quebec",2016S05100770,Medium population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006433,348.2.2,0.6015,,,,4
+37057,2018,"Stanstead, Quebec",2016S05101493,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006435,349.3.2,0.7621,,,,4
+37059,2018,"Stoneham, Quebec",2016S05101494,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006437,350.3.2,0.7965,,,,4
+37061,2018,"Témiscaming, Quebec",2016S05100920,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006439,351.3.2,0.6348,,,,4
+37063,2018,"Terrasse-des-Pins, Quebec",2016S05101434,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006441,352.3.2,0.7788,,,,4
+37065,2018,"Thetford Mines, Quebec",2016S05100929,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006443,353.3.2,0.6549,,,,4
+37067,2018,"Thurso, Quebec",2016S05100936,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006445,354.3.2,0.6726,,,,4
+37069,2018,"Trois-Pistoles, Quebec",2016S05100952,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006447,355.3.2,0.6923,,,,4
+37071,2018,"Trois-Rivières, Quebec",2016S05100953,Large urban population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006449,356.1.2,0.5974,,,,4
+37073,2018,"Valcourt, Quebec",2016S05100968,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006451,357.3.2,0.7631,,,,4
+37075,2018,"Val-d'Or, Quebec",2016S05100965,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006453,358.3.2,0.6275,,,,4
+37077,2018,"Vallée-Jonction, Quebec",2016S05100969,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006455,359.3.2,0.6998,,,,4
+37079,2018,"Val-Maher, Quebec",2016S05101495,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006457,360.3.2,0.8185,,,,4
+37081,2018,"Varennes, Quebec",2016S05100976,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006459,361.3.2,0.629,,,,4
+37083,2018,"Verchères, Quebec",2016S05100981,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006461,362.3.2,0.6732,,,,4
+37085,2018,"Victoriaville, Quebec",2016S05100987,Medium population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006463,363.2.2,0.6636,,,,4
+37087,2018,"Ville Lambert, Quebec",2016S05101397,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006465,364.3.2,0.7232,,,,4
+37089,2018,"Ville-Marie, Quebec",2016S05100989,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006467,365.3.2,0.5812,,,,4
+37091,2018,"Warwick, Quebec",2016S05101000,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006469,366.3.2,0.7007,,,,4
+37093,2018,"Waskaganish, Quebec",2016S05101386,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006471,367.3.2,0.5248,,,,4
+37095,2018,"Waterloo, Quebec",2016S05101004,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006473,368.3.2,0.753,,,,4
+37097,2018,"Wemotaci, Quebec",2016S05101496,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006475,369.3.2,0.6939,,,,4
+37099,2018,"Windsor, Quebec",2016S05101033,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006477,370.3.2,0.721,,,,4
+37101,2018,"Yamachiche, Quebec",2016S05101042,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006479,371.3.2,0.7232,,,,4
+37103,2018,"Acton, Ontario",2016S05100001,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006481,372.3.2,0.6862,,,,4
+37105,2018,"Alexandria, Ontario",2016S05100006,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006483,373.3.2,0.5998,,,,4
+37107,2018,"Alfred, Ontario",2016S05100007,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006485,374.3.2,0.7234,,,,4
+37109,2018,"Alliston, Ontario",2016S05100008,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006487,375.3.2,0.6529,,,,4
+37111,2018,"Almonte, Ontario",2016S05100010,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006489,376.3.2,0.6811,,,,4
+37113,2018,"Amherstburg, Ontario",2016S05100014,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006491,377.3.2,0.5675,,,,4
+37115,2018,"Amigo Beach, Ontario",2016S05101327,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006493,378.3.2,0.6755,,,,4
+37117,2018,"Angus - Borden CFB-BFC, Ontario",2016S05100018,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006495,379.3.2,0.6857,,,,4
+37119,2018,"Arnprior, Ontario",2016S05100021,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006497,380.3.2,0.6804,,,,4
+37121,2018,"Arthur, Ontario",2016S05100022,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006499,381.3.2,0.6767,,,,4
+37123,2018,"Atikokan, Ontario",2016S05100028,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006501,382.3.2,0.6796,,,,4
+37125,2018,"Attawapiskat 91A, Ontario",2016S05101497,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006503,383.3.2,0.601,,,,4
+37127,2018,"Aylmer, Ontario",2016S05100030,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006505,384.3.2,0.6414,,,,4
+37129,2018,"Ayr, Ontario",2016S05100031,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006507,385.3.2,0.6686,,,,4
+37131,2018,"Azilda, Ontario",2016S05101498,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006509,386.3.2,0.6386,,,,4
+37133,2018,"Ballantrae, Ontario",2016S05101370,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006511,387.3.2,0.7103,,,,4
+37135,2018,"Barrie, Ontario",2016S05100043,Large urban population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006513,388.1.2,0.5885,,,,4
+37137,2018,"Barry's Bay, Ontario",2016S05100044,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006515,389.3.2,0.6927,,,,4
+37139,2018,"Bath, Ontario",2016S05101403,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006517,390.3.2,0.6686,,,,4
+37141,2018,"Bayfield, Ontario",2016S05101499,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006519,391.3.2,0.6963,,,,4
+37143,2018,"Beamsville, Ontario",2016S05101075,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006521,392.3.2,0.626,,,,4
+37145,2018,"Beaverton, Ontario",2016S05100053,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006523,393.3.2,0.7087,,,,4
+37147,2018,"Beeton, Ontario",2016S05100058,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006525,394.3.2,0.7306,,,,4
+37149,2018,"Belleville, Ontario",2016S05100061,Medium population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006527,395.2.2,0.6503,,,,4
+37151,2018,"Belmont, Ontario",2016S05101239,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006529,396.3.2,0.7337,,,,4
+37153,2018,"Binbrook, Ontario",2016S05101404,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006531,397.3.2,0.5926,,,,4
+37155,2018,"Blenheim, Ontario",2016S05100075,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006533,398.3.2,0.5965,,,,4
+37157,2018,"Blind River, Ontario",2016S05100076,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006535,399.3.2,0.6943,,,,4
+37159,2018,"Bobcaygeon, Ontario",2016S05100077,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006537,400.3.2,0.6728,,,,4
+37161,2018,"Bolton, Ontario",2016S05100080,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006539,401.3.2,0.5485,,,,4
+37163,2018,"Bourget, Ontario",2016S05101500,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006541,402.3.2,0.7424,,,,4
+37165,2018,"Bowmanville, Ontario",2016S05100087,Medium population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006543,403.2.2,0.6472,,,,4
+37167,2018,"Bracebridge, Ontario",2016S05100088,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006545,404.3.2,0.7477,,,,4
+37169,2018,"Bradford, Ontario",2016S05100089,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006547,405.3.2,0.5778,,,,4
+37171,2018,"Brantford, Ontario",2016S05100092,Medium population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006549,406.2.2,0.6076,,,,4
+37173,2018,"Bridgenorth - Chemong Park Area, Ontario",2016S05100094,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006551,407.3.2,0.6747,,,,4
+37175,2018,"Brighton, Ontario",2016S05100097,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006553,408.3.2,0.7222,,,,4
+37177,2018,"Brockville, Ontario",2016S05100098,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006555,409.3.2,0.6401,,,,4
+37179,2018,"Brussels, Ontario",2016S05101295,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006557,410.3.2,0.6686,,,,4
+37181,2018,"Caledon, Ontario",2016S05101319,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006559,411.3.2,0.7372,,,,4
+37183,2018,"Caledon East, Ontario",2016S05101356,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006561,412.3.2,0.7566,,,,4
+37185,2018,"Caledonia, Ontario",2016S05100114,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006563,413.3.2,0.5877,,,,4
+37187,2018,"Campbellford, Ontario",2016S05100121,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006565,414.3.2,0.6738,,,,4
+37189,2018,"Cannington, Ontario",2016S05100126,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006567,415.3.2,0.743,,,,4
+37191,2018,"Capreol, Ontario",2016S05100133,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006569,416.3.2,0.6197,,,,4
+37193,2018,"Cardinal, Ontario",2016S05100137,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006571,417.3.2,0.7202,,,,4
+37195,2018,"Carleton Place, Ontario",2016S05100140,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006573,418.3.2,0.6743,,,,4
+37197,2018,"Carlisle, Ontario",2016S05101255,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006575,419.3.2,0.7759,,,,4
+37199,2018,"Casselman, Ontario",2016S05100144,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006577,420.3.2,0.6946,,,,4
+37201,2018,"Cayuga, Ontario",2016S05100150,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006579,421.3.2,0.6126,,,,4
+37203,2018,"Chalk River, Ontario",2016S05101502,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006581,422.3.2,0.7728,,,,4
+37205,2018,"Chapleau, Ontario",2016S05100157,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006583,423.3.2,0.5429,,,,4
+37207,2018,"Chatham, Ontario",2016S05100167,Medium population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006585,424.2.2,0.5939,,,,4
+37209,2018,"Chelmsford, Ontario",2016S05101503,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006587,425.3.2,0.6307,,,,4
+37211,2018,"Chesley, Ontario",2016S05100170,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006589,426.3.2,0.6943,,,,4
+37213,2018,"Chesterville, Ontario",2016S05100172,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006591,427.3.2,0.7191,,,,4
+37215,2018,"Chippawa, Ontario",2016S05101504,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006593,428.3.2,0.5953,,,,4
+37217,2018,"Claremont, Ontario",2016S05101505,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006595,429.3.2,0.7699,,,,4
+37219,2018,"Clinton, Ontario",2016S05100187,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006597,430.3.2,0.6114,,,,4
+37221,2018,"Cobalt, Ontario",2016S05101506,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006599,431.3.2,0.6993,,,,4
+37223,2018,"Cobourg, Ontario",2016S05100190,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006601,432.3.2,0.6521,,,,4
+37225,2018,"Cochrane, Ontario",2016S05100192,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006603,433.3.2,0.5921,,,,4
+37227,2018,"Colborne, Ontario",2016S05100193,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006605,434.3.2,0.7088,,,,4
+37229,2018,"Colchester, Ontario",2016S05101147,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006607,435.3.2,0.6786,,,,4
+37231,2018,"Collingwood, Ontario",2016S05100198,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006609,436.3.2,0.5599,,,,4
+37233,2018,"Coniston, Ontario",2016S05101507,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006611,437.3.2,0.6827,,,,4
+37235,2018,"Constance Bay, Ontario",2016S05101321,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006613,438.3.2,0.8194,,,,4
+37237,2018,"Cookstown, Ontario",2016S05101248,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006615,439.3.2,0.6869,,,,4
+37239,2018,"Cornwall, Ontario",2016S05100205,Medium population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006617,440.2.2,0.6553,,,,4
+37241,2018,"Corunna, Ontario",2016S05101508,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006619,441.3.2,0.5789,,,,4
+37243,2018,"Creemore, Ontario",2016S05101132,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006621,442.3.2,0.729,,,,4
+37245,2018,"Crystal Beach, Ontario",2016S05101063,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006623,443.3.2,0.7264,,,,4
+37247,2018,"Deep River, Ontario",2016S05100218,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006625,444.3.2,0.6655,,,,4
+37249,2018,"Delhi, Ontario",2016S05100221,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006627,445.3.2,0.5875,,,,4
+37251,2018,"Deseronto, Ontario",2016S05100225,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006629,446.3.2,0.6473,,,,4
+37253,2018,"Dorchester, Ontario",2016S05101509,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006631,447.3.2,0.7302,,,,4
+37255,2018,"Dowling, Ontario",2016S05101084,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006633,448.3.2,0.6402,,,,4
+37257,2018,"Drayton, Ontario",2016S05101317,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006635,449.3.2,0.7736,,,,4
+37259,2018,"Dresden, Ontario",2016S05100238,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006637,450.3.2,0.6917,,,,4
+37261,2018,"Dryden, Ontario",2016S05100241,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006639,451.3.2,0.5897,,,,4
+37263,2018,"Dundalk, Ontario",2016S05100244,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006641,452.3.2,0.6991,,,,4
+37265,2018,"Dunnville, Ontario",2016S05100246,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006643,453.3.2,0.6581,,,,4
+37267,2018,"Durham, Ontario",2016S05100248,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006645,454.3.2,0.6902,,,,4
+37269,2018,"Dutton, Ontario",2016S05101170,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006647,455.3.2,0.6816,,,,4
+37271,2018,"Eganville, Ontario",2016S05100256,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006649,456.3.2,0.7593,,,,4
+37273,2018,"Elliot Lake, Ontario",2016S05100257,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006651,457.3.2,0.6616,,,,4
+37275,2018,"Elmira, Ontario",2016S05100258,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006653,458.3.2,0.6043,,,,4
+37277,2018,"Elmvale, Ontario",2016S05100259,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006655,459.3.2,0.693,,,,4
+37279,2018,"Embrun, Ontario",2016S05100260,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006657,460.3.2,0.747,,,,4
+37281,2018,"Englehart, Ontario",2016S05100264,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006659,461.3.2,0.6933,,,,4
+37283,2018,"Erin, Ontario",2016S05100265,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006661,462.3.2,0.702,,,,4
+37285,2018,"Espanola, Ontario",2016S05100267,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006663,463.3.2,0.5308,,,,4
+37287,2018,"Essex, Ontario",2016S05100268,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006665,464.3.2,0.571,,,,4
+37289,2018,"Everett, Ontario",2016S05101330,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006667,465.3.2,0.7191,,,,4
+37291,2018,"Exeter, Ontario",2016S05100272,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006669,466.3.2,0.6616,,,,4
+37293,2018,"Factory Island, Ontario",2016S05101426,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006671,467.3.2,0.6498,,,,4
+37295,2018,"Fenelon Falls, Ontario",2016S05100277,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006673,468.3.2,0.6414,,,,4
+37297,2018,"Fergus, Ontario",2016S05100278,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006675,469.3.2,0.6594,,,,4
+37299,2018,"Forest, Ontario",2016S05100285,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006677,470.3.2,0.666,,,,4
+37301,2018,"Fort Erie, Ontario",2016S05101062,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006679,471.3.2,0.6539,,,,4
+37303,2018,"Fort Frances, Ontario",2016S05100290,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006681,472.3.2,0.6049,,,,4
+37305,2018,"Frankford, Ontario",2016S05100303,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006683,473.3.2,0.6654,,,,4
+37307,2018,"Gananoque, Ontario",2016S05100310,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006685,474.3.2,0.7313,,,,4
+37309,2018,"Georgetown, Ontario",2016S05100314,Medium population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006687,475.2.2,0.6599,,,,4
+37311,2018,"Geraldton, Ontario",2016S05100315,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006689,476.3.2,0.6486,,,,4
+37313,2018,"Glencoe, Ontario",2016S05100321,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006691,477.3.2,0.7042,,,,4
+37315,2018,"Goderich, Ontario",2016S05100324,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006693,478.3.2,0.5507,,,,4
+37317,2018,"Golden, Ontario",2016S05100038,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006695,479.3.2,0.5895,,,,4
+37319,2018,"Grand Bend, Ontario",2016S05101297,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006697,480.3.2,0.75,,,,4
+37321,2018,"Grand Valley, Ontario",2016S05101129,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006699,481.3.2,0.693,,,,4
+37323,2018,"Gravenhurst, Ontario",2016S05100339,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006701,482.3.2,0.6967,,,,4
+37325,2018,"Guelph, Ontario",2016S05100343,Large urban population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006703,483.1.2,0.5983,,,,4
+37327,2018,"Hagersville, Ontario",2016S05100346,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006705,484.3.2,0.6381,,,,4
+37329,2018,"Haileybury, Ontario",2016S05100347,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006707,485.3.2,0.6576,,,,4
+37331,2018,"Haliburton Village, Ontario",2016S05101510,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006709,486.3.2,0.7898,,,,4
+37333,2018,"Hamilton, Ontario",2016S05100349,Large urban population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006711,487.1.2,0.5728,,,,4
+37335,2018,"Hanover, Ontario",2016S05100352,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006713,488.3.2,0.6339,,,,4
+37337,2018,"Harriston, Ontario",2016S05100359,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006715,489.3.2,0.6463,,,,4
+37339,2018,"Harrow, Ontario",2016S05100360,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006717,490.3.2,0.5776,,,,4
+37341,2018,"Hastings, Ontario",2016S05101241,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006719,491.3.2,0.6959,,,,4
+37343,2018,"Havelock, Ontario",2016S05100363,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006721,492.3.2,0.6846,,,,4
+37345,2018,"Hawkesbury, Ontario",2016S0511350365,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006723,493.3.2,0.6022,,,,4
+37347,2018,"Hearst, Ontario",2016S05100367,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006725,494.3.2,0.5567,,,,4
+37349,2018,"Huntsville, Ontario",2016S05100383,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006727,495.3.2,0.7002,,,,4
+37351,2018,"Ilderton, Ontario",2016S05101406,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006729,496.3.2,0.6257,,,,4
+37353,2018,"Ingersoll, Ontario",2016S05100386,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006731,497.3.2,0.6641,,,,4
+37355,2018,"Ingleside, Ontario",2016S05101511,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006733,498.3.2,0.7263,,,,4
+37357,2018,"Innisfil, Ontario",2016S05101512,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006735,499.3.2,0.6831,,,,4
+37359,2018,"Iroquois, Ontario",2016S05100391,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006737,500.3.2,0.63,,,,4
+37361,2018,"Iroquois Falls, Ontario",2016S05100392,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006739,501.3.2,0.5731,,,,4
+37363,2018,"Jarvis, Ontario",2016S05101151,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006741,502.3.2,0.602,,,,4
+37365,2018,"Kanata, Ontario",2016S05100399,Large urban population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006743,503.1.2,0.631,,,,4
+37367,2018,"Kapuskasing, Ontario",2016S05100400,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006745,504.3.2,0.6451,,,,4
+37369,2018,"Kemptville, Ontario",2016S05100405,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006747,505.3.2,0.6566,,,,4
+37371,2018,"Kenora, Ontario",2016S05100406,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006749,506.3.2,0.6444,,,,4
+37373,2018,"Keswick - Elmhurst Beach, Ontario",2016S05101067,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006751,507.3.2,0.6516,,,,4
+37375,2018,"Kincardine, Ontario",2016S05100412,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006753,508.3.2,0.659,,,,4
+37377,2018,"King, Ontario",2016S05101513,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006755,509.3.2,0.7388,,,,4
+37379,2018,"Kingston, Ontario",2016S05100415,Large urban population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006757,510.1.2,0.6276,,,,4
+37381,2018,"Kirkland Lake, Ontario",2016S05100418,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006759,511.3.2,0.5889,,,,4
+37383,2018,"Kitchener, Ontario",2016S05100419,Large urban population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006761,512.1.2,0.5888,,,,4
+37385,2018,"Lakefield, Ontario",2016S05100450,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006763,513.3.2,0.6638,,,,4
+37387,2018,"Leamington, Ontario",2016S05100463,Medium population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006765,514.2.2,0.5625,,,,4
+37389,2018,"Limoges, Ontario",2016S05101514,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006767,515.3.2,0.7509,,,,4
+37391,2018,"Lindsay, Ontario",2016S05100472,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006769,516.3.2,0.6084,,,,4
+37393,2018,"Listowel, Ontario",2016S05100474,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006771,517.3.2,0.6298,,,,4
+37395,2018,"Little Current, Ontario",2016S05100475,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006773,518.3.2,0.5801,,,,4
+37397,2018,"Lively, Ontario",2016S05101102,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006775,519.3.2,0.7357,,,,4
+37399,2018,"London, Ontario",2016S05100480,Large urban population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006777,520.1.2,0.6406,,,,4
+37401,2018,"Long Sault, Ontario",2016S05101515,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006779,521.3.2,0.723,,,,4
+37403,2018,"Longlac, Ontario",2016S05100481,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006781,522.3.2,0.5739,,,,4
+37405,2018,"L'Orignal, Ontario",2016S05100427,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006783,523.3.2,0.6618,,,,4
+37407,2018,"Lucan, Ontario",2016S05100487,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006785,524.3.2,0.6638,,,,4
+37409,2018,"Lucknow, Ontario",2016S05100489,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006787,525.3.2,0.7034,,,,4
+37411,2018,"Madoc, Ontario",2016S05100494,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006789,526.3.2,0.7249,,,,4
+37413,2018,"Manitouwadge, Ontario",2016S05100499,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006791,527.3.2,0.6491,,,,4
+37415,2018,"Manotick Station, Ontario",2016S05101402,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006793,528.3.2,0.723,,,,4
+37417,2018,"Marathon, Ontario",2016S05100504,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006795,529.3.2,0.6907,,,,4
+37419,2018,"Marchmont - Bass Lake, Ontario",2016S05101516,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006797,530.3.2,0.7371,,,,4
+37421,2018,"Markdale, Ontario",2016S05100506,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006799,531.3.2,0.6774,,,,4
+37423,2018,"Marmora, Ontario",2016S05100508,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006801,532.3.2,0.7184,,,,4
+37425,2018,"Mattawa, Ontario",2016S05100516,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006803,533.3.2,0.644,,,,4
+37427,2018,"McGregor, Ontario",2016S05101517,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006805,534.3.2,0.6063,,,,4
+37429,2018,"Meaford, Ontario",2016S05100522,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006807,535.3.2,0.6692,,,,4
+37431,2018,"Metcalfe, Ontario",2016S05101323,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006809,536.3.2,0.7266,,,,4
+37433,2018,"Midland, Ontario",2016S05100531,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006811,537.3.2,0.6958,,,,4
+37435,2018,"Mildmay, Ontario",2016S05101301,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006813,538.3.2,0.6984,,,,4
+37437,2018,"Millbrook, Ontario",2016S05101308,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006815,539.3.2,0.7903,,,,4
+37439,2018,"Milton, Ontario",2016S05100532,Large urban population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006817,540.1.2,0.5052,,,,4
+37441,2018,"Milverton, Ontario",2016S05100533,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006819,541.3.2,0.638,,,,4
+37443,2018,"Mississauga Beach, Ontario",2016S05101083,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006821,542.3.2,0.7003,,,,4
+37445,2018,"Mitchell, Ontario",2016S05100538,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006823,543.3.2,0.6812,,,,4
+37447,2018,"Moosonee, Ontario",2016S05101390,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006825,544.3.2,0.6117,,,,4
+37449,2018,"Morrisburg, Ontario",2016S05100556,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006827,545.3.2,0.6296,,,,4
+37451,2018,"Mount Albert, Ontario",2016S05101272,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006829,546.3.2,0.7107,,,,4
+37453,2018,"Mount Brydges, Ontario",2016S05100557,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006831,547.3.2,0.7282,,,,4
+37455,2018,"Mount Forest, Ontario",2016S05100558,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006833,548.3.2,0.6687,,,,4
+37457,2018,"Napanee, Ontario",2016S05100569,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006835,549.3.2,0.659,,,,4
+37459,2018,"New Dundee, Ontario",2016S05101429,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006837,550.3.2,0.7123,,,,4
+37461,2018,"New Hamburg, Ontario",2016S05100578,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006839,551.3.2,0.6928,,,,4
+37463,2018,"New Liskeard, Ontario",2016S05101518,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006841,552.3.2,0.6377,,,,4
+37465,2018,"Newcastle, Ontario",2016S05101519,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006843,553.3.2,0.7539,,,,4
+37467,2018,"Nobleton, Ontario",2016S05101071,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006845,554.3.2,0.7112,,,,4
+37469,2018,"North Bay, Ontario",2016S05100595,Medium population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006847,555.2.2,0.7142,,,,4
+37471,2018,"Norwich, Ontario",2016S05100599,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006849,556.3.2,0.7095,,,,4
+37473,2018,"Norwood, Ontario",2016S05100600,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006851,557.3.2,0.7048,,,,4
+37475,2018,"Omemee, Ontario",2016S05101307,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006853,558.3.2,0.7224,,,,4
+37477,2018,"Orangeville, Ontario",2016S05100609,Medium population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006855,559.2.2,0.6313,,,,4
+37479,2018,"Orillia, Ontario",2016S05100610,Medium population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006857,560.2.2,0.6019,,,,4
+37481,2018,"Oro Station - Hawkestone, Ontario",2016S05101520,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006859,561.3.2,0.7317,,,,4
+37483,2018,"Orono, Ontario",2016S05100613,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006861,562.3.2,0.6934,,,,4
+37485,2018,"Osgoode, Ontario",2016S05101264,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006863,563.3.2,0.7498,,,,4
+37487,2018,"Oshawa, Ontario",2016S05100614,Large urban population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006865,564.1.2,0.6192,,,,4
+37489,2018,"Ottawa - Gatineau, Ontario",2016S0511350616,Large urban population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006867,565.1.2,0.6158,,,,4
+37491,2018,"Owen Sound, Ontario",2016S05100619,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006869,566.3.2,0.646,,,,4
+37493,2018,"Paisley, Ontario",2016S05101128,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006871,567.3.2,0.6942,,,,4
+37495,2018,"Palgrave, Ontario",2016S05101521,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006873,568.3.2,0.7619,,,,4
+37497,2018,"Palmerston, Ontario",2016S05100622,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006875,569.3.2,0.6826,,,,4
+37499,2018,"Paris, Ontario",2016S05100624,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006877,570.3.2,0.6682,,,,4
+37501,2018,"Parkhill, Ontario",2016S05100625,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006879,571.3.2,0.7074,,,,4
+37503,2018,"Parry Sound, Ontario",2016S05100628,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006881,572.3.2,0.6651,,,,4
+37505,2018,"Pembroke, Ontario",2016S05100631,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006883,573.3.2,0.6373,,,,4
+37507,2018,"Perth, Ontario",2016S05100634,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006885,574.3.2,0.7273,,,,4
+37509,2018,"Petawawa, Ontario",2016S05101086,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006887,575.3.2,0.5853,,,,4
+37511,2018,"Peterborough, Ontario",2016S05100636,Medium population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006889,576.2.2,0.6271,,,,4
+37513,2018,"Petrolia, Ontario",2016S05100639,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006891,577.3.2,0.7247,,,,4
+37515,2018,"Picton, Ontario",2016S05100641,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006893,578.3.2,0.686,,,,4
+37517,2018,"Plattsville, Ontario",2016S05101522,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006895,579.3.2,0.7199,,,,4
+37519,2018,"Porcupine, Ontario",2016S05101100,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006897,580.3.2,0.6288,,,,4
+37521,2018,"Port Colborne, Ontario",2016S05101523,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006899,581.3.2,0.6454,,,,4
+37523,2018,"Port Dover, Ontario",2016S05100658,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006901,582.3.2,0.664,,,,4
+37525,2018,"Port Elgin, Ontario",2016S05100659,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006903,583.3.2,0.5619,,,,4
+37527,2018,"Port Hope, Ontario",2016S05100662,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006905,584.3.2,0.7007,,,,4
+37529,2018,"Port Perry, Ontario",2016S05100665,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006907,585.3.2,0.6481,,,,4
+37531,2018,"Port Rowan, Ontario",2016S05101524,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006909,586.3.2,0.7197,,,,4
+37533,2018,"Port Stanley, Ontario",2016S05100666,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006911,587.3.2,0.7147,,,,4
+37535,2018,"Powassan, Ontario",2016S05100672,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006913,588.3.2,0.686,,,,4
+37537,2018,"Prescott, Ontario",2016S05100675,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006915,589.3.2,0.6397,,,,4
+37539,2018,"Red Lake, Ontario",2016S05101389,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006917,590.3.2,0.5705,,,,4
+37541,2018,"Renfrew, Ontario",2016S05100699,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006919,591.3.2,0.7283,,,,4
+37543,2018,"Richmond, Ontario",2016S05100704,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006921,592.3.2,0.7275,,,,4
+37545,2018,"Ridgetown, Ontario",2016S05100706,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006923,593.3.2,0.7044,,,,4
+37547,2018,"Rockland, Ontario",2016S05100719,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006925,594.3.2,0.6381,,,,4
+37549,2018,"Rockwood, Ontario",2016S05101209,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006927,595.3.2,0.7228,,,,4
+37551,2018,"Russell, Ontario",2016S05101306,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006929,596.3.2,0.7622,,,,4
+37553,2018,"Sarnia, Ontario",2016S05100737,Medium population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006931,597.2.2,0.6015,,,,4
+37555,2018,"Sault Ste. Marie, Ontario",2016S05100739,Medium population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006933,598.2.2,0.575,,,,4
+37557,2018,"Schomberg, Ontario",2016S05101357,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006935,599.3.2,0.7207,,,,4
+37559,2018,"Seaforth, Ontario",2016S05100744,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006937,600.3.2,0.6659,,,,4
+37561,2018,"Shelburne, Ontario",2016S05100755,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006939,601.3.2,0.6902,,,,4
+37563,2018,"Simcoe, Ontario",2016S05100762,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006941,602.3.2,0.6649,,,,4
+37565,2018,"Sioux Lookout, Ontario",2016S05100763,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006943,603.3.2,0.5999,,,,4
+37567,2018,"Smiths Falls, Ontario",2016S05100766,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006945,604.3.2,0.5449,,,,4
+37569,2018,"Smithville, Ontario",2016S05100767,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006947,605.3.2,0.6208,,,,4
+37571,2018,"Southampton, Ontario",2016S05101176,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006949,606.3.2,0.6502,,,,4
+37573,2018,"St. Catharines - Niagara Falls, Ontario",2016S05100788,Large urban population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006951,607.1.2,0.5507,,,,4
+37575,2018,"St. George, Ontario",2016S05101315,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006953,608.3.2,0.7538,,,,4
+37577,2018,"St. Jacobs, Ontario",2016S05101245,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006955,609.3.2,0.6262,,,,4
+37579,2018,"St. Marys, Ontario",2016S05100795,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006957,610.3.2,0.7304,,,,4
+37581,2018,"St. Thomas, Ontario",2016S05100799,Medium population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006959,611.2.2,0.6039,,,,4
+37583,2018,"Stayner, Ontario",2016S05100871,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006961,612.3.2,0.6327,,,,4
+37585,2018,"Stevensville, Ontario",2016S05101525,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006963,613.3.2,0.7067,,,,4
+37587,2018,"Stirling, Ontario",2016S05100892,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006965,614.3.2,0.7146,,,,4
+37589,2018,"Stoney Point, Ontario",2016S05101312,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006967,615.3.2,0.6084,,,,4
+37591,2018,"Stouffville, Ontario",2016S05101020,Medium population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006969,616.2.2,0.6138,,,,4
+37593,2018,"Stratford, Ontario",2016S05100897,Medium population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006971,617.2.2,0.6381,,,,4
+37595,2018,"Strathroy, Ontario",2016S05100899,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006973,618.3.2,0.6633,,,,4
+37597,2018,"Sturgeon Falls, Ontario",2016S05100901,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006975,619.3.2,0.6377,,,,4
+37599,2018,"Sudbury, Ontario",2016S05100904,Medium population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006977,620.2.2,0.6002,,,,4
+37601,2018,"Sunderland, Ontario",2016S05101431,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006979,621.3.2,0.6927,,,,4
+37603,2018,"Sutton, Ontario",2016S05100908,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006981,622.3.2,0.7497,,,,4
+37605,2018,"Tavistock, Ontario",2016S05100919,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006983,623.3.2,0.7014,,,,4
+37607,2018,"Tay, Ontario",2016S05101526,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006985,624.3.2,0.7599,,,,4
+37609,2018,"Thamesford, Ontario",2016S05100925,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006987,625.3.2,0.7159,,,,4
+37611,2018,"Thessalon, Ontario",2016S05100928,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006989,626.3.2,0.6596,,,,4
+37613,2018,"Thornbury, Ontario",2016S05100932,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006991,627.3.2,0.6783,,,,4
+37615,2018,"Thunder Bay, Ontario",2016S05100935,Medium population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006993,628.2.2,0.6217,,,,4
+37617,2018,"Tilbury, Ontario",2016S05100938,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006995,629.3.2,0.5506,,,,4
+37619,2018,"Tillsonburg, Ontario",2016S05100939,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006997,630.3.2,0.6385,,,,4
+37621,2018,"Timmins, Ontario",2016S05101099,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288006999,631.3.2,0.5774,,,,4
+37623,2018,"Toronto, Ontario",2016S05100944,Large urban population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007001,632.1.2,0.5367,,,,4
+37625,2018,"Tottenham, Ontario",2016S05100945,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007003,633.3.2,0.6459,,,,4
+37627,2018,"Tweed, Ontario",2016S05100957,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007005,634.3.2,0.6719,,,,4
+37629,2018,"Uxbridge, Ontario",2016S05100963,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007007,635.3.2,0.7616,,,,4
+37631,2018,"Valley East, Ontario",2016S05100970,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007009,636.3.2,0.7222,,,,4
+37633,2018,"Vankleek Hill, Ontario",2016S05100975,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007011,637.3.2,0.7387,,,,4
+37635,2018,"Vineland, Ontario",2016S05101269,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007013,638.3.2,0.6778,,,,4
+37637,2018,"Virgil, Ontario",2016S05101371,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007015,639.3.2,0.5755,,,,4
+37639,2018,"Walkerton, Ontario",2016S05100998,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007017,640.3.2,0.6218,,,,4
+37641,2018,"Wallaceburg, Ontario",2016S05100999,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007019,641.3.2,0.6201,,,,4
+37643,2018,"Wasaga Beach, Ontario",2016S05101331,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007021,642.3.2,0.6948,,,,4
+37645,2018,"Waterford, Ontario",2016S05101003,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007023,643.3.2,0.6095,,,,4
+37647,2018,"Watford, Ontario",2016S05101006,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007025,644.3.2,0.6366,,,,4
+37649,2018,"Wawa, Ontario",2016S05100394,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007027,645.3.2,0.5441,,,,4
+37651,2018,"Welland - Pelham, Ontario",2016S05101528,Medium population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007029,646.2.2,0.6359,,,,4
+37653,2018,"Wellesley, Ontario",2016S05101299,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007031,647.3.2,0.6597,,,,4
+37655,2018,"Wendover, Ontario",2016S05101529,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007033,648.3.2,0.703,,,,4
+37657,2018,"West Lorne, Ontario",2016S05101011,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007035,649.3.2,0.7653,,,,4
+37659,2018,"Wheatley, Ontario",2016S05101017,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007037,650.3.2,0.6904,,,,4
+37661,2018,"Wiarton, Ontario",2016S05101026,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007039,651.3.2,0.6452,,,,4
+37663,2018,"Wikwemikong, Ontario",2016S05101305,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007041,652.3.2,0.7365,,,,4
+37665,2018,"Winchester, Ontario",2016S05101029,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007043,653.3.2,0.7071,,,,4
+37667,2018,"Windsor, Ontario",2016S05101032,Large urban population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007045,654.1.2,0.5169,,,,4
+37669,2018,"Wingham, Ontario",2016S05101034,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007047,655.3.2,0.6593,,,,4
+37671,2018,"Woodstock, Ontario",2016S05101039,Medium population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007049,656.2.2,0.5879,,,,4
+37673,2018,"Wyoming, Ontario",2016S05101041,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007051,657.3.2,0.6582,,,,4
+37675,2018,"Altona, Manitoba",2016S05100011,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007053,658.3.2,0.5693,,,,4
+37677,2018,"Arborg, Manitoba",2016S05101530,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007055,659.3.2,0.6016,,,,4
+37679,2018,"Beausejour, Manitoba",2016S05100051,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007057,660.3.2,0.5113,,,,4
+37681,2018,"Blumenort, Manitoba",2016S05101416,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007059,661.3.2,0.642,,,,4
+37683,2018,"Boissevain, Manitoba",2016S05100078,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007061,662.3.2,0.5958,,,,4
+37685,2018,"Brandon, Manitoba",2016S05100091,Medium population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007063,663.2.2,0.4992,,,,4
+37687,2018,"Carberry, Manitoba",2016S05100135,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007065,664.3.2,0.6271,,,,4
+37689,2018,"Carman, Manitoba",2016S05100142,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007067,665.3.2,0.5845,,,,4
+37691,2018,"Cross Lake 19A, Manitoba",2016S05101531,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007069,666.3.2,0.7019,,,,4
+37693,2018,"Dauphin, Manitoba",2016S05100215,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007071,667.3.2,0.6411,,,,4
+37695,2018,"Flin Flon, Manitoba",2016S0511460282,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007073,668.3.2,0.4554,,,,4
+37697,2018,"Gillam, Manitoba",2016S05101415,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007075,669.3.2,0.6708,,,,4
+37699,2018,"Gimli, Manitoba",2016S05100317,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007077,670.3.2,0.5123,,,,4
+37701,2018,"Grunthal, Manitoba",2016S05101414,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007079,671.3.2,0.5909,,,,4
+37703,2018,"Ile des Chênes, Manitoba",2016S05101532,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007081,672.3.2,0.567,,,,4
+37705,2018,"Killarney, Manitoba",2016S05100410,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007083,673.3.2,0.5301,,,,4
+37707,2018,"La Salle, Manitoba",2016S05101533,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007085,674.3.2,0.5634,,,,4
+37709,2018,"Lac du Bonnet, Manitoba",2016S05101225,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007087,675.3.2,0.6288,,,,4
+37711,2018,"Landmark, Manitoba",2016S05101534,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007089,676.3.2,0.6846,,,,4
+37713,2018,"Lorette, Manitoba",2016S05101373,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007091,677.3.2,0.5919,,,,4
+37715,2018,"Minnedosa, Manitoba",2016S05100534,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007093,678.3.2,0.5732,,,,4
+37717,2018,"Mitchell, Manitoba",2016S05101411,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007095,679.3.2,0.5989,,,,4
+37719,2018,"Moose Lake, Manitoba",2016S05101412,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007097,680.3.2,0.7441,,,,4
+37721,2018,"Morden, Manitoba",2016S05100553,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007099,681.3.2,0.534,,,,4
+37723,2018,"Morris, Manitoba",2016S05100555,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007101,682.3.2,0.5474,,,,4
+37725,2018,"Neepawa, Manitoba",2016S05100572,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007103,683.3.2,0.5323,,,,4
+37727,2018,"Niverville, Manitoba",2016S05101133,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007105,684.3.2,0.5389,,,,4
+37729,2018,"Oak Bluff, Manitoba",2016S05101535,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007107,685.3.2,0.5247,,,,4
+37731,2018,"Oakbank, Manitoba",2016S05101365,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007109,686.3.2,0.586,,,,4
+37733,2018,"Pinawa, Manitoba",2016S05100645,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007111,687.3.2,0.6225,,,,4
+37735,2018,"Portage la Prairie, Manitoba",2016S05100669,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007113,688.3.2,0.5625,,,,4
+37737,2018,"Rivers, Manitoba",2016S05100710,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007115,689.3.2,0.4907,,,,4
+37739,2018,"Roblin, Manitoba",2016S05100716,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007117,690.3.2,0.6457,,,,4
+37741,2018,"Russell, Manitoba",2016S05100730,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007119,691.3.2,0.5644,,,,4
+37743,2018,"Selkirk, Manitoba",2016S05100745,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007121,692.3.2,0.5431,,,,4
+37745,2018,"Shilo CFB-BFC, Manitoba",2016S05100759,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007123,693.3.2,0.5868,,,,4
+37747,2018,"Souris, Manitoba",2016S05100771,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007125,694.3.2,0.5957,,,,4
+37749,2018,"St. Adolphe, Manitoba",2016S05101254,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007127,695.3.2,0.6147,,,,4
+37751,2018,"St. Theresa Point, Manitoba",2016S05101413,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007129,696.3.2,0.617,,,,4
+37753,2018,"Ste. Anne, Manitoba",2016S05100872,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007131,697.3.2,0.64,,,,4
+37755,2018,"Steinbach, Manitoba",2016S05100887,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007133,698.3.2,0.5627,,,,4
+37757,2018,"Stonewall, Manitoba",2016S05100894,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007135,699.3.2,0.5365,,,,4
+37759,2018,"Stony Mountain, Manitoba",2016S05100895,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007137,700.3.2,0.5868,,,,4
+37761,2018,"St-Pierre-Jolys, Manitoba",2016S05101536,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007139,701.3.2,0.6291,,,,4
+37763,2018,"Swan River, Manitoba",2016S05100911,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007141,702.3.2,0.6306,,,,4
+37765,2018,"Teulon, Manitoba",2016S05101537,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007143,703.3.2,0.6172,,,,4
+37767,2018,"The Pas, Manitoba",2016S05100927,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007145,704.3.2,0.6506,,,,4
+37769,2018,"Thompson, Manitoba",2016S05100930,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007147,705.3.2,0.5171,,,,4
+37771,2018,"Virden, Manitoba",2016S05100991,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007149,706.3.2,0.5328,,,,4
+37773,2018,"Winkler, Manitoba",2016S05101035,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007151,707.3.2,0.5597,,,,4
+37775,2018,"Winnipeg, Manitoba",2016S05101036,Large urban population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007153,708.1.2,0.4643,,,,4
+37777,2018,"Assiniboia, Saskatchewan",2016S05100025,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007155,709.3.2,0.4397,,,,4
+37779,2018,"Balgonie, Saskatchewan",2016S05101329,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007157,710.3.2,0.512,,,,4
+37781,2018,"Battleford, Saskatchewan",2016S05101538,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007159,711.3.2,0.5205,,,,4
+37783,2018,"Biggar, Saskatchewan",2016S05100071,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007161,712.3.2,0.4217,,,,4
+37785,2018,"Birch Hills, Saskatchewan",2016S05101421,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007163,713.3.2,0.6332,,,,4
+37787,2018,"Canora, Saskatchewan",2016S05100127,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007165,714.3.2,0.6053,,,,4
+37789,2018,"Carlyle, Saskatchewan",2016S05100141,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007167,715.3.2,0.5465,,,,4
+37791,2018,"Carnduff, Saskatchewan",2016S05100143,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007169,716.3.2,0.5355,,,,4
+37793,2018,"Dalmeny, Saskatchewan",2016S05101212,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007171,717.3.2,0.5761,,,,4
+37795,2018,"Delisle, Saskatchewan",2016S05101539,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007173,718.3.2,0.5242,,,,4
+37797,2018,"Esterhazy, Saskatchewan",2016S05100269,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007175,719.3.2,0.5453,,,,4
+37799,2018,"Estevan, Saskatchewan",2016S05100270,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007177,720.3.2,0.4216,,,,4
+37801,2018,"Flin Flon, Saskatchewan",2016S0511470282,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007179,721.3.2,0.362,,,,4
+37803,2018,"Foam Lake, Saskatchewan",2016S05100283,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007181,722.3.2,0.5587,,,,4
+37805,2018,"Fort Qu'Appelle, Saskatchewan",2016S05100294,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007183,723.3.2,0.5196,,,,4
+37807,2018,"Hudson Bay, Saskatchewan",2016S05100380,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007185,724.3.2,0.5693,,,,4
+37809,2018,"Humboldt, Saskatchewan",2016S05100381,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007187,725.3.2,0.4799,,,,4
+37811,2018,"Indian Head, Saskatchewan",2016S05100385,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007189,726.3.2,0.5378,,,,4
+37813,2018,"Kamsack, Saskatchewan",2016S05100398,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007191,727.3.2,0.5671,,,,4
+37815,2018,"Kimosom Pwatinahk 203 (Deschambault Lake), Saskatchewan",2016S05101420,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007193,728.3.2,0.7223,,,,4
+37817,2018,"Kindersley, Saskatchewan",2016S05100413,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007195,729.3.2,0.4304,,,,4
+37819,2018,"La Ronge, Saskatchewan",2016S05101188,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007197,730.3.2,0.5677,,,,4
+37821,2018,"Langham, Saskatchewan",2016S05101230,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007199,731.3.2,0.5167,,,,4
+37823,2018,"Lanigan, Saskatchewan",2016S05100455,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007201,732.3.2,0.5956,,,,4
+37825,2018,"Lloydminster, Saskatchewan",2016S0511470478,Medium population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007203,733.2.2,0.5763,,,,4
+37827,2018,"Lumsden, Saskatchewan",2016S05101153,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007205,734.3.2,0.588,,,,4
+37829,2018,"Macklin, Saskatchewan",2016S05101231,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007207,735.3.2,0.456,,,,4
+37831,2018,"Maple Creek, Saskatchewan",2016S05100502,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007209,736.3.2,0.4401,,,,4
+37833,2018,"Martensville, Saskatchewan",2016S05101213,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007211,737.3.2,0.4561,,,,4
+37835,2018,"Meadow Lake, Saskatchewan",2016S05100521,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007213,738.3.2,0.5349,,,,4
+37837,2018,"Melfort, Saskatchewan",2016S05100524,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007215,739.3.2,0.5525,,,,4
+37839,2018,"Melville, Saskatchewan",2016S05100527,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007217,740.3.2,0.445,,,,4
+37841,2018,"Moose Jaw, Saskatchewan",2016S05100549,Medium population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007219,741.2.2,0.461,,,,4
+37843,2018,"Moosomin, Saskatchewan",2016S05100551,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007221,742.3.2,0.549,,,,4
+37845,2018,"Nipawin, Saskatchewan",2016S05100588,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007223,743.3.2,0.511,,,,4
+37847,2018,"North Battleford, Saskatchewan",2016S05100594,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007225,744.3.2,0.5046,,,,4
+37849,2018,"Osler, Saskatchewan",2016S05101443,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007227,745.3.2,0.5666,,,,4
+37851,2018,"Outlook, Saskatchewan",2016S05100618,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007229,746.3.2,0.4635,,,,4
+37853,2018,"Oxbow, Saskatchewan",2016S05100620,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007231,747.3.2,0.4866,,,,4
+37855,2018,"Pelican Narrows, Saskatchewan",2016S05101423,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007233,748.3.2,0.5988,,,,4
+37857,2018,"Pilot Butte, Saskatchewan",2016S05101211,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007235,749.3.2,0.4406,,,,4
+37859,2018,"Prince Albert, Saskatchewan",2016S05100678,Medium population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007237,750.2.2,0.4986,,,,4
+37861,2018,"Regina, Saskatchewan",2016S05100698,Large urban population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007239,751.1.2,0.427,,,,4
+37863,2018,"Regina Beach, Saskatchewan",2016S05101374,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007241,752.3.2,0.584,,,,4
+37865,2018,"Rosetown, Saskatchewan",2016S05100724,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007243,753.3.2,0.4445,,,,4
+37867,2018,"Rosthern, Saskatchewan",2016S05100726,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007245,754.3.2,0.6107,,,,4
+37869,2018,"Saskatoon, Saskatchewan",2016S05100738,Large urban population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007247,755.1.2,0.4347,,,,4
+37871,2018,"Shaunavon, Saskatchewan",2016S05100749,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007249,756.3.2,0.4537,,,,4
+37873,2018,"Shellbrook, Saskatchewan",2016S05100756,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007251,757.3.2,0.5065,,,,4
+37875,2018,"Stanley 157, Saskatchewan",2016S05101379,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007253,758.3.2,0.5443,,,,4
+37877,2018,"Swift Current, Saskatchewan",2016S05100912,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007255,759.3.2,0.4463,,,,4
+37879,2018,"Tisdale, Saskatchewan",2016S05100943,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007257,760.3.2,0.554,,,,4
+37881,2018,"Unity, Saskatchewan",2016S05100960,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007259,761.3.2,0.543,,,,4
+37883,2018,"Wadena, Saskatchewan",2016S05100995,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007261,762.3.2,0.5866,,,,4
+37885,2018,"Warman, Saskatchewan",2016S05101137,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007263,763.3.2,0.4838,,,,4
+37887,2018,"Watrous, Saskatchewan",2016S05101007,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007265,764.3.2,0.5284,,,,4
+37889,2018,"Weyburn, Saskatchewan",2016S05101016,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007267,765.3.2,0.4906,,,,4
+37891,2018,"White City, Saskatchewan",2016S05101328,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007269,766.3.2,0.5465,,,,4
+37893,2018,"Wilkie, Saskatchewan",2016S05101027,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007271,767.3.2,0.6026,,,,4
+37895,2018,"Wynyard, Saskatchewan",2016S05101040,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007273,768.3.2,0.5133,,,,4
+37897,2018,"Yorkton, Saskatchewan",2016S05101045,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007275,769.3.2,0.5064,,,,4
+37899,2018,"Airdrie, Alberta",2016S05100003,Medium population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007277,770.2.2,0.4582,,,,4
+37901,2018,"Alberta Beach - Val Quentin, Alberta",2016S05101540,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007279,771.3.2,0.6806,,,,4
+37903,2018,"Athabasca, Alberta",2016S05101311,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007281,772.3.2,0.6759,,,,4
+37905,2018,"Banff, Alberta",2016S05100040,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007283,773.3.2,0.6012,,,,4
+37907,2018,"Barrhead, Alberta",2016S05100042,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007285,774.3.2,0.641,,,,4
+37909,2018,"Bassano, Alberta",2016S05101279,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007287,775.3.2,0.5177,,,,4
+37911,2018,"Beaumont, Alberta",2016S05101202,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007289,776.3.2,0.5764,,,,4
+37913,2018,"Beaverlodge, Alberta",2016S05100052,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007291,777.3.2,0.6541,,,,4
+37915,2018,"Bentley, Alberta",2016S05101541,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007293,778.3.2,0.5668,,,,4
+37917,2018,"Black Diamond, Alberta",2016S05101139,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007295,779.3.2,0.5582,,,,4
+37919,2018,"Blackfalds, Alberta",2016S05101173,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007297,780.3.2,0.4803,,,,4
+37921,2018,"Blairmore, Alberta",2016S05100074,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007299,781.3.2,0.5681,,,,4
+37923,2018,"Bon Accord, Alberta",2016S05101214,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007301,782.3.2,0.6851,,,,4
+37925,2018,"Bonnyville, Alberta",2016S05100083,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007303,783.3.2,0.4463,,,,4
+37927,2018,"Bow Island, Alberta",2016S05100086,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007305,784.3.2,0.4473,,,,4
+37929,2018,"Bowden, Alberta",2016S05101387,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007307,785.3.2,0.6047,,,,4
+37931,2018,"Brooks, Alberta",2016S05100101,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007309,786.3.2,0.5148,,,,4
+37933,2018,"Calgary, Alberta",2016S05100115,Large urban population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007311,787.1.2,0.4372,,,,4
+37935,2018,"Calmar, Alberta",2016S05101360,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007313,788.3.2,0.5811,,,,4
+37937,2018,"Camrose, Alberta",2016S05100123,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007315,789.3.2,0.5237,,,,4
+37939,2018,"Canmore, Alberta",2016S05100125,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007317,790.3.2,0.5984,,,,4
+37941,2018,"Cardston, Alberta",2016S05100138,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007319,791.3.2,0.5188,,,,4
+37943,2018,"Carstairs, Alberta",2016S05101140,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007321,792.3.2,0.647,,,,4
+37945,2018,"Chestermere, Alberta",2016S05101368,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007323,793.3.2,0.5118,,,,4
+37947,2018,"Clairmont, Alberta",2016S05101346,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007325,794.3.2,0.4795,,,,4
+37949,2018,"Claresholm, Alberta",2016S05100183,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007327,795.3.2,0.4453,,,,4
+37951,2018,"Coaldale, Alberta",2016S05100188,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007329,796.3.2,0.508,,,,4
+37953,2018,"Coalhurst, Alberta",2016S05101249,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007331,797.3.2,0.4413,,,,4
+37955,2018,"Cochrane, Alberta",2016S05100191,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007333,798.3.2,0.5191,,,,4
+37957,2018,"Cold Lake, Alberta",2016S05101542,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007335,799.3.2,0.5816,,,,4
+37959,2018,"Coleman, Alberta",2016S05101543,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007337,800.3.2,0.4797,,,,4
+37961,2018,"Crossfield, Alberta",2016S05101216,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007339,801.3.2,0.5819,,,,4
+37963,2018,"Devon, Alberta",2016S05100226,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007341,802.3.2,0.6913,,,,4
+37965,2018,"Didsbury, Alberta",2016S05100227,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007343,803.3.2,0.5786,,,,4
+37967,2018,"Drayton Valley, Alberta",2016S05100237,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007345,804.3.2,0.5695,,,,4
+37969,2018,"Drumheller, Alberta",2016S05100239,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007347,805.3.2,0.4163,,,,4
+37971,2018,"Duchess, Alberta",2016S05101544,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007349,806.3.2,0.556,,,,4
+37973,2018,"Eckville, Alberta",2016S05101419,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007351,807.3.2,0.5683,,,,4
+37975,2018,"Edmonton, Alberta",2016S05100252,Large urban population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007353,808.1.2,0.4851,,,,4
+37977,2018,"Edson, Alberta",2016S05100254,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007355,809.3.2,0.6072,,,,4
+37979,2018,"Elk Point, Alberta",2016S05101200,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007357,810.3.2,0.6258,,,,4
+37981,2018,"Fairview, Alberta",2016S05100274,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007359,811.3.2,0.5742,,,,4
+37983,2018,"Falher, Alberta",2016S05101545,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007361,812.3.2,0.5717,,,,4
+37985,2018,"Fort Macleod, Alberta",2016S05100291,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007363,813.3.2,0.3768,,,,4
+37987,2018,"Fort McMurray, Alberta",2016S05100292,Medium population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007365,814.2.2,0.5739,,,,4
+37989,2018,"Fort Saskatchewan, Alberta",2016S05101546,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007367,815.3.2,0.5659,,,,4
+37991,2018,"Fox Creek, Alberta",2016S05100301,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007369,816.3.2,0.5596,,,,4
+37993,2018,"Gibbons, Alberta",2016S05101141,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007371,817.3.2,0.6975,,,,4
+37995,2018,"Grand Centre, Alberta",2016S05100330,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007373,818.3.2,0.6362,,,,4
+37997,2018,"Grande Cache, Alberta",2016S05100335,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007375,819.3.2,0.5993,,,,4
+37999,2018,"Grande Prairie, Alberta",2016S05100336,Medium population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007377,820.2.2,0.524,,,,4
+38001,2018,"Grimshaw, Alberta",2016S05100342,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007379,821.3.2,0.6064,,,,4
+38003,2018,"Hanna, Alberta",2016S05100351,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007381,822.3.2,0.4473,,,,4
+38005,2018,"Heritage Pointe, Alberta",2016S05101547,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007383,823.3.2,0.666,,,,4
+38007,2018,"High Level, Alberta",2016S05100371,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007385,824.3.2,0.4713,,,,4
+38009,2018,"High Prairie, Alberta",2016S05100372,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007387,825.3.2,0.6242,,,,4
+38011,2018,"High River, Alberta",2016S05100373,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007389,826.3.2,0.516,,,,4
+38013,2018,"Hinton, Alberta",2016S05100374,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007391,827.3.2,0.5653,,,,4
+38015,2018,"Innisfail, Alberta",2016S05100387,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007393,828.3.2,0.4568,,,,4
+38017,2018,"Irricana, Alberta",2016S05101369,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007395,829.3.2,0.6023,,,,4
+38019,2018,"Jasper, Alberta",2016S05101174,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007397,830.3.2,0.4659,,,,4
+38021,2018,"La Crète, Alberta",2016S05101347,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007399,831.3.2,0.4472,,,,4
+38023,2018,"Lac la Biche, Alberta",2016S05100439,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007401,832.3.2,0.5166,,,,4
+38025,2018,"Lacombe, Alberta",2016S05100446,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007403,833.3.2,0.529,,,,4
+38027,2018,"Lamont, Alberta",2016S05101199,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007405,834.3.2,0.6602,,,,4
+38029,2018,"Lancaster Park, Alberta",2016S05101548,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007407,835.3.2,0.6431,,,,4
+38031,2018,"Langdon, Alberta",2016S05101367,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007409,836.3.2,0.5298,,,,4
+38033,2018,"Leduc, Alberta",2016S05100465,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007411,837.3.2,0.5292,,,,4
+38035,2018,"Legal, Alberta",2016S05101549,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007413,838.3.2,0.7353,,,,4
+38037,2018,"Lethbridge, Alberta",2016S05100467,Medium population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007415,839.2.2,0.4283,,,,4
+38039,2018,"Lloydminster, Alberta",2016S0511480478,Medium population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007417,840.2.2,0.5227,,,,4
+38041,2018,"Magrath, Alberta",2016S05100496,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007419,841.3.2,0.5516,,,,4
+38043,2018,"Manning, Alberta",2016S05100501,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007421,842.3.2,0.5898,,,,4
+38045,2018,"Mayerthorpe, Alberta",2016S05100517,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007423,843.3.2,0.571,,,,4
+38047,2018,"Medicine Hat, Alberta",2016S05100523,Medium population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007425,844.2.2,0.4056,,,,4
+38049,2018,"Millet, Alberta",2016S05101201,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007427,845.3.2,0.6184,,,,4
+38051,2018,"Morinville, Alberta",2016S05100554,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007429,846.3.2,0.6379,,,,4
+38053,2018,"Nanton, Alberta",2016S05101138,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007431,847.3.2,0.4907,,,,4
+38055,2018,"Nobleford, Alberta",2016S05101407,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007433,848.3.2,0.4614,,,,4
+38057,2018,"Okotoks, Alberta",2016S05100606,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007435,849.3.2,0.5237,,,,4
+38059,2018,"Olds, Alberta",2016S05100607,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007437,850.3.2,0.5771,,,,4
+38061,2018,"Peace River, Alberta",2016S05100629,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007439,851.3.2,0.5961,,,,4
+38063,2018,"Penhold, Alberta",2016S05101198,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007441,852.3.2,0.5399,,,,4
+38065,2018,"Picture Butte, Alberta",2016S05100643,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007443,853.3.2,0.5873,,,,4
+38067,2018,"Pincher Creek, Alberta",2016S05100646,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007445,854.3.2,0.5001,,,,4
+38069,2018,"Ponoka, Alberta",2016S05100652,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007447,855.3.2,0.5569,,,,4
+38071,2018,"Provost, Alberta",2016S05100683,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007449,856.3.2,0.4693,,,,4
+38073,2018,"Raymond, Alberta",2016S05100693,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007451,857.3.2,0.4784,,,,4
+38075,2018,"Red Deer, Alberta",2016S05100694,Medium population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007453,858.2.2,0.4897,,,,4
+38077,2018,"Redcliff, Alberta",2016S05101550,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007455,859.3.2,0.3665,,,,4
+38079,2018,"Redwater, Alberta",2016S05100697,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007457,860.3.2,0.6212,,,,4
+38081,2018,"Rimbey, Alberta",2016S05100708,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007459,861.3.2,0.5896,,,,4
+38083,2018,"Rocky Mountain House, Alberta",2016S05100720,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007461,862.3.2,0.6142,,,,4
+38085,2018,"Sexsmith, Alberta",2016S05101242,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007463,863.3.2,0.636,,,,4
+38087,2018,"Slave Lake, Alberta",2016S05100764,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007465,864.3.2,0.5309,,,,4
+38089,2018,"Springbrook, Alberta",2016S05101551,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007467,865.3.2,0.6573,,,,4
+38091,2018,"Spruce Grove, Alberta",2016S05100780,Medium population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007469,866.2.2,0.5922,,,,4
+38093,2018,"St. Paul, Alberta",2016S05100796,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007471,867.3.2,0.5232,,,,4
+38095,2018,"Stettler, Alberta",2016S05100890,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007473,868.3.2,0.5282,,,,4
+38097,2018,"Stony Plain, Alberta",2016S05101258,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007475,869.3.2,0.6464,,,,4
+38099,2018,"Strathmore, Alberta",2016S05100898,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007477,870.3.2,0.5334,,,,4
+38101,2018,"Sundre, Alberta",2016S05101164,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007479,871.3.2,0.5782,,,,4
+38103,2018,"Swan Hills, Alberta",2016S05100910,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007481,872.3.2,0.5933,,,,4
+38105,2018,"Sylvan Lake, Alberta",2016S05100915,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007483,873.3.2,0.456,,,,4
+38107,2018,"Taber, Alberta",2016S05100916,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007485,874.3.2,0.474,,,,4
+38109,2018,"Three Hills, Alberta",2016S05100934,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007487,875.3.2,0.5486,,,,4
+38111,2018,"Tofield, Alberta",2016S05101165,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007489,876.3.2,0.5294,,,,4
+38113,2018,"Trochu, Alberta",2016S05101418,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007491,877.3.2,0.552,,,,4
+38115,2018,"Turner Valley, Alberta",2016S05101552,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007493,878.3.2,0.6408,,,,4
+38117,2018,"Two Hills, Alberta",2016S05101302,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007495,879.3.2,0.5335,,,,4
+38119,2018,"Valleyview, Alberta",2016S05100972,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007497,880.3.2,0.5566,,,,4
+38121,2018,"Vauxhall, Alberta",2016S05101553,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007499,881.3.2,0.566,,,,4
+38123,2018,"Vegreville, Alberta",2016S05100980,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007501,882.3.2,0.5152,,,,4
+38125,2018,"Vermilion, Alberta",2016S05100982,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007503,883.3.2,0.5318,,,,4
+38127,2018,"Viking, Alberta",2016S05100988,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007505,884.3.2,0.5574,,,,4
+38129,2018,"Vulcan, Alberta",2016S05100993,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007507,885.3.2,0.5283,,,,4
+38131,2018,"Wainwright, Alberta",2016S05100996,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007509,886.3.2,0.4916,,,,4
+38133,2018,"Wembley, Alberta",2016S05101197,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007511,887.3.2,0.6572,,,,4
+38135,2018,"Westlake, Alberta",2016S05101554,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007513,888.3.2,0.4797,,,,4
+38137,2018,"Westlock, Alberta",2016S05101012,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007515,889.3.2,0.5665,,,,4
+38139,2018,"Wetaskiwin, Alberta",2016S05101015,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007517,890.3.2,0.5483,,,,4
+38141,2018,"Whitecourt, Alberta",2016S05101022,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007519,891.3.2,0.5445,,,,4
+38143,2018,"Abbotsford, British Columbia",2016S05101048,Large urban population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007521,892.1.2,0.5965,,,,4
+38145,2018,"Aldergrove, British Columbia",2016S05101218,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007523,893.3.2,0.6119,,,,4
+38147,2018,"Aldergrove East, British Columbia",2016S05101408,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007525,894.3.2,0.6004,,,,4
+38149,2018,"Armstrong, British Columbia",2016S05100020,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007527,895.3.2,0.6373,,,,4
+38151,2018,"Ashcroft, British Columbia",2016S05100024,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007529,896.3.2,0.4215,,,,4
+38153,2018,"Blind Bay, British Columbia",2016S05101350,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007531,897.3.2,0.6283,,,,4
+38155,2018,"Burns Lake, British Columbia",2016S05100110,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007533,898.3.2,0.6509,,,,4
+38157,2018,"Campbell River, British Columbia",2016S05100119,Medium population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007535,899.2.2,0.6413,,,,4
+38159,2018,"Canoe, British Columbia",2016S05101555,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007537,900.3.2,0.6601,,,,4
+38161,2018,"Castlegar, British Columbia",2016S05100146,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007539,901.3.2,0.5895,,,,4
+38163,2018,"Cedar, British Columbia",2016S05101576,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007541,902.3.2,0.6601,,,,4
+38165,2018,"Chase, British Columbia",2016S05100161,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007543,903.3.2,0.5285,,,,4
+38167,2018,"Chemainus, British Columbia",2016S05100169,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007545,904.3.2,0.598,,,,4
+38169,2018,"Chilliwack, British Columbia",2016S05100177,Medium population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007547,905.2.2,0.6237,,,,4
+38171,2018,"Cobble Hill, British Columbia",2016S05101557,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007549,906.3.2,0.6684,,,,4
+38173,2018,"Courtenay, British Columbia",2016S05100207,Medium population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007551,907.2.2,0.6619,,,,4
+38175,2018,"Cowichan Bay, British Columbia",2016S05101410,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007553,908.3.2,0.6806,,,,4
+38177,2018,"Cranbrook, British Columbia",2016S05100210,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007555,909.3.2,0.4571,,,,4
+38179,2018,"Creston, British Columbia",2016S05100212,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007557,910.3.2,0.5915,,,,4
+38181,2018,"Crofton, British Columbia",2016S05101375,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007559,911.3.2,0.6042,,,,4
+38183,2018,"Cultus Lake, British Columbia",2016S05101314,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007561,912.3.2,0.7432,,,,4
+38185,2018,"Cumberland, British Columbia",2016S05100213,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007563,913.3.2,0.6733,,,,4
+38187,2018,"Dallas, British Columbia",2016S05101222,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007565,914.3.2,0.5408,,,,4
+38189,2018,"Dawson Creek, British Columbia",2016S05100217,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007567,915.3.2,0.5857,,,,4
+38191,2018,"Duck Lake, British Columbia",2016S05101262,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007569,916.3.2,0.6123,,,,4
+38193,2018,"Duncan, British Columbia",2016S05100243,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007571,917.3.2,0.599,,,,4
+38195,2018,"Elkford, British Columbia",2016S05101143,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007573,918.3.2,0.5619,,,,4
+38197,2018,"Enderby, British Columbia",2016S05100262,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007575,919.3.2,0.6699,,,,4
+38199,2018,"Fairwinds, British Columbia",2016S05101556,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007577,920.3.2,0.7532,,,,4
+38201,2018,"Fernie, British Columbia",2016S05100280,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007579,921.3.2,0.5573,,,,4
+38203,2018,"Fort Nelson, British Columbia",2016S05100293,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007581,922.3.2,0.6033,,,,4
+38205,2018,"Fort St. James, British Columbia",2016S05100297,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007583,923.3.2,0.6235,,,,4
+38207,2018,"Fort St. John, British Columbia",2016S05100298,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007585,924.3.2,0.4893,,,,4
+38209,2018,"Gibsons, British Columbia",2016S05100316,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007587,925.3.2,0.7829,,,,4
+38211,2018,"Golden, British Columbia",2016S05100326,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007589,926.3.2,0.4273,,,,4
+38213,2018,"Grand Forks, British Columbia",2016S05100333,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007591,927.3.2,0.5381,,,,4
+38215,2018,"Harrison Hot Springs, British Columbia",2016S05101377,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007593,928.3.2,0.591,,,,4
+38217,2018,"Hope, British Columbia",2016S05100376,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007595,929.3.2,0.5023,,,,4
+38219,2018,"Houston, British Columbia",2016S05101221,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007597,930.3.2,0.5974,,,,4
+38221,2018,"Invermere, British Columbia",2016S05100389,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007599,931.3.2,0.4325,,,,4
+38223,2018,"Kamloops, British Columbia",2016S05100397,Medium population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007601,932.2.2,0.4212,,,,4
+38225,2018,"Kelowna, British Columbia",2016S05100403,Large urban population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007603,933.1.2,0.5124,,,,4
+38227,2018,"Kent, British Columbia",2016S05101325,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007605,934.3.2,0.6423,,,,4
+38229,2018,"Keremeos, British Columbia",2016S05101558,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007607,935.3.2,0.4479,,,,4
+38231,2018,"Kimberley, British Columbia",2016S05100411,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007609,936.3.2,0.6071,,,,4
+38233,2018,"Kitimat, British Columbia",2016S05100420,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007611,937.3.2,0.6149,,,,4
+38235,2018,"Ladner, British Columbia",2016S05101559,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007613,938.3.2,0.5646,,,,4
+38237,2018,"Ladysmith, British Columbia",2016S05100447,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007615,939.3.2,0.6951,,,,4
+38239,2018,"Lake Cowichan, British Columbia",2016S05100449,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007617,940.3.2,0.6852,,,,4
+38241,2018,"Lillooet, British Columbia",2016S05100470,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007619,941.3.2,0.4455,,,,4
+38243,2018,"Lions Bay, British Columbia",2016S05101217,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007621,942.3.2,0.8668,,,,4
+38245,2018,"Logan Lake, British Columbia",2016S05101144,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007623,943.3.2,0.5802,,,,4
+38247,2018,"Lumby, British Columbia",2016S05101175,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007625,944.3.2,0.6263,,,,4
+38249,2018,"Mackenzie, British Columbia",2016S05100493,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007627,945.3.2,0.5742,,,,4
+38251,2018,"Merritt, British Columbia",2016S05100529,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007629,946.3.2,0.4728,,,,4
+38253,2018,"Miller's Landing, British Columbia",2016S05101409,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007631,947.3.2,0.8981,,,,4
+38255,2018,"Mission, British Columbia",2016S05101560,Medium population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007633,948.2.2,0.6637,,,,4
+38257,2018,"Nakusp, British Columbia",2016S05100567,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007635,949.3.2,0.5567,,,,4
+38259,2018,"Nanaimo, British Columbia",2016S05100568,Medium population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007637,950.2.2,0.6238,,,,4
+38261,2018,"Naramata, British Columbia",2016S05101561,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007639,951.3.2,0.6397,,,,4
+38263,2018,"Nelson, British Columbia",2016S05100574,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007641,952.3.2,0.5712,,,,4
+38265,2018,"Okanagan Falls, British Columbia",2016S05101562,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007643,953.3.2,0.407,,,,4
+38267,2018,"Oliver, British Columbia",2016S05100608,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007645,954.3.2,0.4353,,,,4
+38269,2018,"One Hundred Mile House, British Columbia",2016S05101047,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007647,955.3.2,0.6095,,,,4
+38271,2018,"Osoyoos, British Columbia",2016S05100615,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007649,956.3.2,0.4701,,,,4
+38273,2018,"Parksville, British Columbia",2016S05100626,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007651,957.3.2,0.6208,,,,4
+38275,2018,"Peachland, British Columbia",2016S05101563,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007653,958.3.2,0.5212,,,,4
+38277,2018,"Pemberton, British Columbia",2016S05101351,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007655,959.3.2,0.6531,,,,4
+38279,2018,"Penticton, British Columbia",2016S05100632,Medium population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007657,960.2.2,0.4104,,,,4
+38281,2018,"Port Alberni, British Columbia",2016S05100654,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007659,961.3.2,0.6269,,,,4
+38283,2018,"Port Hardy, British Columbia",2016S05101087,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007661,962.3.2,0.7596,,,,4
+38285,2018,"Port McNeill, British Columbia",2016S05101190,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007663,963.3.2,0.5781,,,,4
+38287,2018,"Powell River, British Columbia",2016S05100673,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007665,964.3.2,0.7167,,,,4
+38289,2018,"Prince George, British Columbia",2016S05100679,Medium population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007667,965.2.2,0.6033,,,,4
+38291,2018,"Prince Rupert, British Columbia",2016S05100680,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007669,966.3.2,0.6095,,,,4
+38293,2018,"Princeton, British Columbia",2016S05100681,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007671,967.3.2,0.4386,,,,4
+38295,2018,"Puntledge, British Columbia",2016S05101564,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007673,968.3.2,0.7819,,,,4
+38297,2018,"Quesnel, British Columbia",2016S05100687,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007675,969.3.2,0.635,,,,4
+38299,2018,"Rayleigh, British Columbia",2016S05101565,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007677,970.3.2,0.5816,,,,4
+38301,2018,"Revelstoke, British Columbia",2016S05100700,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007679,971.3.2,0.6235,,,,4
+38303,2018,"Roberts Creek, British Columbia",2016S05101376,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007681,972.3.2,0.8539,,,,4
+38305,2018,"Rosedale, British Columbia",2016S05101566,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007683,973.3.2,0.7054,,,,4
+38307,2018,"Rossland, British Columbia",2016S05101257,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007685,974.3.2,0.6654,,,,4
+38309,2018,"Salmo, British Columbia",2016S05101171,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007687,975.3.2,0.6987,,,,4
+38311,2018,"Salmon Arm, British Columbia",2016S05100736,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007689,976.3.2,0.6045,,,,4
+38313,2018,"Sechelt, British Columbia",2016S05101300,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007691,977.3.2,0.7117,,,,4
+38315,2018,"Shawnigan - Mill Bay, British Columbia",2016S05101567,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007693,978.3.2,0.7312,,,,4
+38317,2018,"Sicamous, British Columbia",2016S05101219,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007695,979.3.2,0.5324,,,,4
+38319,2018,"Smithers, British Columbia",2016S05100765,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007697,980.3.2,0.6202,,,,4
+38321,2018,"Sooke, British Columbia",2016S05101098,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007699,981.3.2,0.7317,,,,4
+38323,2018,"Sparwood, British Columbia",2016S05100776,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007701,982.3.2,0.5844,,,,4
+38325,2018,"Squamish, British Columbia",2016S05100781,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007703,983.3.2,0.7132,,,,4
+38327,2018,"Summerland, British Columbia",2016S05101117,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007705,984.3.2,0.5177,,,,4
+38329,2018,"Telkwa, British Columbia",2016S05101568,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007707,985.3.2,0.6859,,,,4
+38331,2018,"Terrace, British Columbia",2016S05100922,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007709,986.3.2,0.6416,,,,4
+38333,2018,"Trail - Fruitvale, British Columbia",2016S05101569,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007711,987.3.2,0.6422,,,,4
+38335,2018,"Tsawwassen, British Columbia",2016S05101570,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007713,988.3.2,0.6509,,,,4
+38337,2018,"Tumbler Ridge, British Columbia",2016S05101240,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007715,989.3.2,0.6535,,,,4
+38339,2018,"Ucluelet, British Columbia",2016S05100959,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007717,990.3.2,0.654,,,,4
+38341,2018,"Vancouver, British Columbia",2016S05100973,Large urban population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007719,991.1.2,0.5573,,,,4
+38343,2018,"Vanderhoof, British Columbia",2016S05100974,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007721,992.3.2,0.6296,,,,4
+38345,2018,"Vernon, British Columbia",2016S05100983,Medium population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007723,993.2.2,0.5398,,,,4
+38347,2018,"Victoria, British Columbia",2016S05100984,Large urban population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007725,994.1.2,0.6398,,,,4
+38349,2018,"Welcome Beach, British Columbia",2016S05101424,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007727,995.3.2,0.8058,,,,4
+38351,2018,"Whistler, British Columbia",2016S05101309,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007729,996.3.2,0.6906,,,,4
+38353,2018,"White Rock, British Columbia",2016S05101021,Medium population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007731,997.2.2,0.6622,,,,4
+38355,2018,"Williams Lake, British Columbia",2016S05101028,Small population centre,Average normalized difference vegetation index (NDVI),Index,160,units,0,v1288007733,998.3.2,0.5856,,,,4

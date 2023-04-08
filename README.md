@@ -27,10 +27,6 @@ GPower settings
 ## Notes
 "GEO_PRV", "GEODGHR4", "GEODVBHA", "SDC_015", "SDCDGCGT", "DEPDVSEV", "DEPDVPHQ", "DODEP", "DIS_005", "DIS_010", "DIS_035", "DIS_015", "DIS_040", "DIS_020", "DIS_025", "GEN_015"
 
-catgorize into four variables according to normal distribution instead of linear grouping
-
-try to not group by NDVI
-
 ```R
 c <- function()
 {
