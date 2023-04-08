@@ -24,21 +24,22 @@ filtered$NDVI <- cut(
   labels = c(1, 2, 3, 4)
 )
 
-# balance dataset by SDC_015 and NVDI
-# set.seed(14430)
-#sampled <- filtered %>%
-#    group_by(SDC_015) %>%
-#    sample_n(1000, replace = FALSE)
+# sample data (skip this step)
 sampled <- filtered
 
 # change SDC_015 and NDVI to factor
 sampled$SDC_015 <- as.factor(sampled$SDC_015)
 sampled$NDVI <- as.factor(sampled$NDVI)
 
-# improve normality of GEN_015
+# improve normality of GEN_015 with a box-cox transformation
 b <- boxcox(lm(sampled$GEN_015 ~ 1), plotit = FALSE)
 lambda <- b$x[which.max(b$y)]
-sampled$GEN_015 <- (sampled$GEN_015 ^ lambda - 1) / lambda
+lambda <- round(lambda / 0.5) * 0.5
+if (lambda == 0) {
+  sampled$GEN_015 <- log(sampled$GEN_015)
+} else {
+  sampled$GEN_015 <- (sampled$GEN_015 ^ lambda - 1) / lambda 
+}
 
 # rename
 analysis_data <- sampled
@@ -47,8 +48,6 @@ analysis_data <- sampled
 # boxplot(analysis_data$GEN_015 ~ analysis_data$NDVI)
 
 # homogeneity of variance
-leveneTest(GEN_015 ~ SDC_015, data = analysis_data)
-leveneTest(GEN_015 ~ NDVI, data = analysis_data)
 leveneTest(GEN_015 ~ SDC_015 * NDVI, data = analysis_data)
 
 # visual inspection of normality
