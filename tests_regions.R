@@ -73,18 +73,47 @@ if (lambda == 0) {
 raw <- data
 
 subsets = list(
-  "canada" = raw %>% group_by(SDC_015) %>% sample_n(500, replace = FALSE),
+  "canada" = raw %>%
+    group_by(SDC_015, NDVI) %>%
+    slice_sample(n = 125, replace = FALSE),
 
-  "eastern" = raw %>% filter(GEO_PRV %in% c(10, 11, 12, 13, 24, 35)) %>% group_by(SDC_015) %>% sample_n(105, replace = FALSE),
-  "western" = raw %>% filter(GEO_PRV %in% c(46, 47, 48, 59)) %>% group_by(SDC_015) %>% sample_n(105, replace = FALSE),
-  "prairies" = raw %>% filter(GEO_PRV %in% c(46, 47, 48)) %>% group_by(SDC_015) %>% sample_n(105, replace = FALSE),
-
-  "newfoundland_and_labrador" = raw %>% filter(GEO_PRV == 10) %>% group_by(SDC_015) %>% sample_n(105, replace = FALSE),
-  #"new_brunswick" = raw %>% filter(GEO_PRV == 13) %>% group_by(SDC_015) %>% sample_n(105, replace = FALSE),
-  "quebec" = raw %>% filter(GEO_PRV == 24) %>% group_by(SDC_015) %>% sample_n(105, replace = FALSE),
-  "ontario" = raw %>% filter(GEO_PRV == 35) %>% group_by(SDC_015) %>% sample_n(105, replace = FALSE),
-  "alberta" = raw %>% filter(GEO_PRV == 48) %>% group_by(SDC_015) %>% sample_n(105, replace = FALSE),
-  "british_columbia" = raw %>% filter(GEO_PRV == 59) %>% group_by(SDC_015) %>% sample_n(105, replace = FALSE)
+  "eastern" = raw %>%
+    filter(GEO_PRV %in% c(10, 11, 12, 13, 24, 35)) %>%
+    group_by(SDC_015, NDVI) %>%
+    slice_sample(n = 100, replace = FALSE),
+  "western" = raw %>%
+    filter(GEO_PRV %in% c(46, 47, 48, 59)) %>%
+    group_by(SDC_015, NDVI) %>%
+    slice_sample(n = 100, replace = FALSE),
+  "prairies" = raw %>%
+    filter(GEO_PRV %in% c(46, 47, 48)) %>%
+    group_by(SDC_015, NDVI) %>%
+    slice_sample(n = 100, replace = FALSE),
+  
+  "newfoundland_and_labrador" = raw %>%
+    filter(GEO_PRV == 10) %>%
+    group_by(SDC_015, NDVI) %>%
+    slice_sample(n = 50, replace = FALSE),
+  "new_brunswick" = raw %>%
+    filter(GEO_PRV == 13) %>%
+    group_by(SDC_015, NDVI) %>%
+    slice_sample(n = 50, replace = FALSE),
+  "quebec" = raw %>%
+    filter(GEO_PRV == 24) %>%
+    group_by(SDC_015, NDVI) %>%
+    slice_sample(n = 50, replace = FALSE),
+  "ontario" = raw %>%
+    filter(GEO_PRV == 35) %>%
+    group_by(SDC_015, NDVI) %>%
+    slice_sample(n = 50, replace = FALSE),
+  "alberta" = raw %>%
+    filter(GEO_PRV == 48) %>%
+    group_by(SDC_015, NDVI) %>%
+    slice_sample(n = 50, replace = FALSE),
+  "british_columbia" = raw %>%
+    filter(GEO_PRV == 59) %>%
+    group_by(SDC_015, NDVI) %>%
+    slice_sample(n = 50, replace = FALSE)
 )
 
 for (i in seq(1, length(subsets))) {
