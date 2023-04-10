@@ -72,48 +72,42 @@ if (lambda == 0) {
 # rename
 raw <- data
 
-subsets = list(
-  "canada" = raw %>%
-    group_by(SDC_015, NDVI) %>%
-    slice_sample(n = 125, replace = FALSE),
+slice_max_group <- function (x, size=(2**31)) {
+  freq <- (x %>%
+    group_by(SDC_015, NDVI)
+    %>% summarise(count=n())
+  )$count
+  group_size <- min(freq)
 
-  "eastern" = raw %>%
-    filter(GEO_PRV %in% c(10, 11, 12, 13, 24, 35)) %>%
+  return (
+    x %>% 
     group_by(SDC_015, NDVI) %>%
-    slice_sample(n = 100, replace = FALSE),
-  "western" = raw %>%
-    filter(GEO_PRV %in% c(46, 47, 48, 59)) %>%
-    group_by(SDC_015, NDVI) %>%
-    slice_sample(n = 100, replace = FALSE),
-  "prairies" = raw %>%
-    filter(GEO_PRV %in% c(46, 47, 48)) %>%
-    group_by(SDC_015, NDVI) %>%
-    slice_sample(n = 100, replace = FALSE),
+    slice_sample(n = min(c(group_size, size)), replace = FALSE)
+  )
+}
+
+subsets = list(
+  "canada" = slice_max_group(raw, 125),
+
+  "eastern" = slice_max_group(raw %>%
+    filter(GEO_PRV %in% c(10, 11, 12, 13, 24, 35)), 100),
+  "western" = slice_max_group(raw %>%
+    filter(GEO_PRV %in% c(46, 47, 48, 59)), 100),
+  "prairies" = slice_max_group(raw %>%
+    filter(GEO_PRV %in% c(46, 47, 48)), 100),
   
-  "newfoundland_and_labrador" = raw %>%
-    filter(GEO_PRV == 10) %>%
-    group_by(SDC_015, NDVI) %>%
-    slice_sample(n = 50, replace = FALSE),
-  "new_brunswick" = raw %>%
-    filter(GEO_PRV == 13) %>%
-    group_by(SDC_015, NDVI) %>%
-    slice_sample(n = 50, replace = FALSE),
-  "quebec" = raw %>%
-    filter(GEO_PRV == 24) %>%
-    group_by(SDC_015, NDVI) %>%
-    slice_sample(n = 50, replace = FALSE),
-  "ontario" = raw %>%
-    filter(GEO_PRV == 35) %>%
-    group_by(SDC_015, NDVI) %>%
-    slice_sample(n = 50, replace = FALSE),
-  "alberta" = raw %>%
-    filter(GEO_PRV == 48) %>%
-    group_by(SDC_015, NDVI) %>%
-    slice_sample(n = 50, replace = FALSE),
-  "british_columbia" = raw %>%
-    filter(GEO_PRV == 59) %>%
-    group_by(SDC_015, NDVI) %>%
-    slice_sample(n = 50, replace = FALSE)
+  "newfoundland_and_labrador" = slice_max_group(raw %>%
+    filter(GEO_PRV == 10)),
+  "new_brunswick" = slice_max_group(raw %>%
+    filter(GEO_PRV == 13)),
+  "quebec" = slice_max_group(raw %>%
+    filter(GEO_PRV == 24)),
+  "ontario" = slice_max_group(raw %>%
+    filter(GEO_PRV == 35)),
+  "alberta" = slice_max_group(raw %>%
+    filter(GEO_PRV == 48)),
+  "british_columbia" = slice_max_group(raw %>%
+    filter(GEO_PRV == 59))
 )
 
 for (i in seq(1, length(subsets))) {
