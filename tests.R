@@ -24,39 +24,16 @@ filtered$NDVI <- cut(
   labels = c(1, 2, 3, 4)
 )
 
-# sample data (skip this step)
-sampled <- filtered
+# change SDC_015, NDVI and GEN_015 to factor
+filtered$SDC_015 <- as.factor(filtered$SDC_015)
+filtered$NDVI <- as.factor(filtered$NDVI)
+filtered$GEN_015 <- as.factor(filtered$GEN_015)
 
-# change SDC_015 and NDVI to factor
-sampled$SDC_015 <- as.factor(sampled$SDC_015)
-sampled$NDVI <- as.factor(sampled$NDVI)
-
-# improve normality of GEN_015 with a box-cox transformation
-b <- boxcox(lm(sampled$GEN_015 ~ 1), plotit = FALSE)
-lambda <- b$x[which.max(b$y)]
-lambda <- round(lambda / 0.5) * 0.5
-lambda <- -0.1
-if (lambda == 0) {
-  sampled$GEN_015 <- log(sampled$GEN_015)
-} else {
-  sampled$GEN_015 <- (sampled$GEN_015 ^ lambda - 1) / lambda 
-}
+# sample data
+sampled <- filtered %>% slice_sample(n = 1000, replace=FALSE)
 
 # rename
 analysis_data <- sampled
 
-# homogeneity of variance
-leveneTest(GEN_015 ~ SDC_015 * NDVI, data = analysis_data)
-
-# visual inspection of normality
-ggqqplot(analysis_data$GEN_015)
-
-# two way ANOVA
-two_way_results.aov <- aov(GEN_015 ~ SDC_015 * NDVI, data = analysis_data)
-summary(two_way_results.aov)
-
-# post-hoc tests
-alpha <- 0.05
-TukeyHSD(two_way_results.aov, which = "SDC_015", conf.level = (1 - alpha))
-TukeyHSD(two_way_results.aov, which = "NDVI", conf.level = (1 - alpha))
-TukeyHSD(two_way_results.aov, which = "SDC_015:NDVI", conf.level = (1 - alpha))
+# chi2 test
+chisq.test(table(filtered$SDC_015, filtered$GEN_015))
