@@ -18,10 +18,15 @@ ndvi <- filtered$NDVI
 filtered$NDVI <- (ndvi - min(ndvi)) / (max(ndvi) - min(ndvi))
 
 # categorize NDVI into four intervals
+#filtered$NDVI <- cut(
+#  filtered$NDVI, 
+#  breaks = c(-Inf, 0.25, 0.5, 0.75, Inf),
+#  labels = c(1, 2, 3, 4)
+#)
 filtered$NDVI <- cut(
   filtered$NDVI, 
-  breaks = c(-Inf, 0.25, 0.5, 0.75, Inf),
-  labels = c(1, 2, 3, 4)
+  breaks = c(-Inf, 0.5, Inf),
+  labels = c(1, 2)
 )
 
 # change SDC_015, NDVI and GEN_015 to factor
