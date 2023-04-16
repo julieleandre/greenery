@@ -40,9 +40,9 @@
 2. Data preparation (Using Numpy, Pandas on Python 3.11)
     1. Equal width binning to divide NDVI into three categories (low, medium, high). Turns a continous NDVI variable into an ordinal one.
         1. Minimum NDVI is 0.40255; maximum NDVI, 0.7898.
-        2. Values within [0.40255, 0.53163] are considered low NDVI.
-        3. Values within [0.53163, 0.660716] are considered medium NDVI.
-        4. Values within [0.660716, 0.7898] are considered high NDVI.
+        2. Values within [0.40255, 0.53163] are considered low NDVI (n = 15708).
+        3. Values within [0.53163, 0.660716] are considered medium NDVI (n = 34562).
+        4. Values within [0.660716, 0.7898] are considered high NDVI (n = 22663).
     2. Current variables:
         1. Independent, Categorical: SDC_015 (Demography; indigenous or not)
         2. Independent, Ordinal: NDVI (Greenery from 1 to 3)
