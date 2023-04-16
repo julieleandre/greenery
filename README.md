@@ -12,7 +12,7 @@
         2. Categorical: CITY (City name)
     3. NDVI of each health region were determined with an average of the NDVI of the cities found within. For smaller health regions which contained only one city, the NDVI thereof was used.
     4. Participants found within each health region were associated to their respective NDVI values.
-    5. Participants were filtered down to those that responded for all the necessary variables (SDC_015 and GEN_015), and had an NDVI value associated. Population analysis of the dataset:
+    5. Participants were filtered down to those that responded for all the necessary variables (SDC_015 and GEN_015), and had an NDVI value associated. Population analysis of the dataset (src/dataset_visuals.R)
         1. 72933 total participants
             1. Demography (SDC_015)
                 1. Indigenous: n = 3814
@@ -92,7 +92,7 @@
             2. Knowing we need 277 samples in total, 277/6 = 46.2
             3. Therefore we need 47 per level of greenery, making 47 * 6 = 282 samples in total.
 
-5. Execute tests (Using Scipy, Numpy, Pandas on Python 3.11)
+5. Execute tests (Using Scipy, Numpy, Pandas on Python 3.11) (src/tests.ipynb)
     1. Chi-squared test is very sensitive to sample size. It is important to not use larger sample sizes than necessary. Therefore, using the previous step, we've determined a sample size that is slightly larger than the smallest necessary sample size.
     2. Those small sample sizes are not reresentative of our whole dataset (at n = 72933 participants).
     3. To alleviate sampling bias and to get tests representative of the whole population, we sample randomly 250 times for each of the three tests, and execute those tests 250 times each.
