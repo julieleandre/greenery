@@ -52,3 +52,4 @@ grouped_ggbarstats(
   package = "ggthemes",
   palette = "excel_Grayscale"
 )
+ggsave("C:\\Users\\xia_t\\Desktop\\Projects\\youreka\\src\\data_vis.png")
