@@ -28,7 +28,7 @@ filtered$NDVI <- cut(
 filtered$NDVI <- as.factor(filtered$NDVI)
 
 filtered$SDC_015 <- as.factor(filtered$SDC_015)
-levels(filtered$SDC_015) <- c("Indigenous", "Non-Indigenous")
+levels(filtered$SDC_015) <- c("Indigenous (n = 3,814; 5.22%)", "Non-Indigenous (n = 69,199; 94.78%)")
 
 filtered$GEN_015 <- as.factor(filtered$GEN_015)
 levels(filtered$GEN_015) <- c("Excellent", "Very good", "Good", "Fair", "Poor")
