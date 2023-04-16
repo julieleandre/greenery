@@ -44,7 +44,7 @@ analysis_data <- sampled
 grouped_ggbarstats(
   data = analysis_data,
   x = GEN_015,
-  legend.title = "Perceived mental health",
+  legend.title = "Self-perceived mental health",
   xlab = "Normalized difference vegetation index (NDVI)",
   y = NDVI,
   grouping.var = SDC_015,
