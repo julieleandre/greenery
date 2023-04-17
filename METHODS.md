@@ -22,3 +22,30 @@ The data was imported into a Pandas DataFrame to perform statistical and hypothe
 For each test, either a two-way or a three-way contingency table was built from the random samples with the *scipy.stats.contingency.crosstab* function. The p-value of the chi-squared test for indenpendence was then determined using *scipy.stats.chi2_contingency* with Yates’ correction for continuity. The Cramér's V effect size was also computed for the two-way tests; it could not be done for all three variables as it cannot generalize to a three-way contingency table.
 
 The generated p-values and effect sizes of the three tests ran on 250 different random samples were cumulated into a results table.
+
+```
+1. goal comparisons (D-M
+   		G-M
+   		D-G-M)
+2. therefore, chi-squared
+3. chi-squared charactoristuc
+	3)assumption #1
+	4)assumption #2
+	5)assumption #3
+	1)decide n  (need 3 magic number, get from science forum)
+	2)n far smaller than paticipant number, in our case (100,150,250)
+		solve 2) randomly sample 250 times
+5. result
+   1) chi-result (statistical significants (p-value))
+   		D-M
+   		G-M
+   		D-G-M
+
+   	2) cramer-v (practical signitificants (effect size))
+	   	D-M
+   		G-M
+   		(null) D-G-M
+6. for caluculate
+	panda
+	scio
+```
