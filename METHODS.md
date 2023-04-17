@@ -14,14 +14,14 @@ After the combination of the aforementioned datasets, there are a total of n=72,
 
 ## Statistical Tests
 
-The chi-squared test of independence was deemed the most appropriate given the three categorical variables, and the goal to prove their correlation. Three different chi-squared tests were ran to assess the interaction between demography and mental health, between greenery and mental health, and between all three variables.
+The chi-squared test of independence was deemed the most appropriate given the three categorical variables, and the goal to prove their correlation. Consequently, three different chi-squared tests were chosen to assess the interaction between demography and mental health, between greenery and mental health, and between all three variables. Before the tests could be executed, the following conditions were met:
 
-The assumption of categorical variables is met as all three variables are as such. Demography is a boolean; the participants are either Indigenous or Non-Indigenous. Greenery is an ordinal variable; the groups of low, medium, and high greenery are used. Similarly, mental health is also ordinal; the metric ranges from excellent, very good, good, fair to poor self-perceived mental health.
+- The assumption of categorical variables is met as all three variables are as such. Demography is a boolean; the participants are either Indigenous or Non-Indigenous. Greenery is an ordinal variable; the groups of low, medium, and high greenery are used. Similarly, mental health is also ordinal; the metric ranges from excellent, very good, good, fair to poor self-perceived mental health.
+
+- 
 
 (reference to chi2 test assumptions https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3900058/)
 
-
-Assumptions are met because the variables are categorical, because the observations are independent by the design of the data collection process, and because counts in the contingency table are mutually exclusive as participants are sampled without replacement. 
 
 The data was imported into a Pandas DataFrame to perform statistical and hypothesis testing using SciPy. The large number of participants (n=72,933) could not be used directly in a chi-squared test, influenced by sample size (reference); that is why smaller optimal samples sizes for each of the three tests were computed using GPower to meet the desired effect size of 0.3, the alpha error probability of 0.05, and a power of 0.80. These small samples sizes, however, may be a source of sampling bias as they represent a mere 0.2% to 0.3% of the whole dataset. Indeed, we consequentely executed the three aforementioned tests 250 times each on different random samples. As such, we hope for a greater coverage of the tests across all available regions.
 
