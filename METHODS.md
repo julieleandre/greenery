@@ -14,7 +14,7 @@ After the combination of the aforementioned datasets, there are a total of n=72,
 
 ## Statistical Tests
 
-The Chi-square test of independence was deemed the most appropriate given the three categorical variables and the goal to prove their correlation. Consequently, three different Chi-square tests were chosen to assess the interaction between demography and mental health (D~M), between greenery and mental health (G~M) and between all three variables (D~G~M). Before the tests could be executed, the following conditions had to be met:
+The Chi-square test of independence was deemed the most appropriate given the three categorical variables and the goal to prove their correlation. Consequently, three different Chi-square tests were chosen to assess the interaction between demography and mental health (DM), between greenery and mental health (GM) and between all three variables (DGM). Before the tests could be executed, the following conditions had to be met:
 
 - The assumption of categorical variables is met as all three variables are as such. Demography is a boolean; the participants are either Indigenous or Non-Indigenous. Greenery is an ordinal variable; the groups of low, medium, and high greenery are used. Similarly, mental health is also ordinal; the metric ranges from excellent, very good, good, fair to poor self-perceived mental health. Indeed, they are categorical variables fit for use in a Chi-square test.
 
@@ -28,7 +28,7 @@ The Chi-square test of independence was deemed the most appropriate given the th
 
 - Likewise, at least 80% of the counts within each contingency table are above 5 because of the large enough sample sizes selected for each of three different Chi-square tests <sup>2</sup>. This condition is thus realized.
 
-Because all assumptions of the Chi-square test are achieved, the actual tests will follow. As samples sizes are quite small<sup>2</sup> compared to the available dataset containing n=72,933 subjets, each of the D~M, G~M and D~G~M tests were executed 250 times<sup>3</sup> each on different random samples to get a more complete overview of the database<sup>4</sup>. Statistical significance p-values resulting from the D~M, G~M and D~G~M Chi-square tests<sup>5</sup> were compiled into three separate distributions. Moreover, pratical significance effect size for the D~M and G~M tests were computed using Cramér's V method<sup>6</sup> and compiled into two distributions. Cramér's V method does not generalize to three variables; therefore, no practical significance distribution was generated for the D~G~M test. All the distributions are finally displayed into histograms <sup>7</sup> with confidence intervals and mean values computed for each.
+Because all assumptions of the Chi-square test are achieved, the actual tests will follow. As samples sizes are quite small<sup>2</sup> compared to the available dataset containing n=72,933 subjets, each of the DM, GM and DGM tests were executed 250 times<sup>3</sup> each on different random samples to get a more complete overview of the database<sup>4</sup>. Statistical significance p-values resulting from the DM, GM and DGM Chi-square tests<sup>5</sup> were compiled into three separate distributions. Moreover, pratical significance effect size for the DM and GM tests were computed using Cramér's V method<sup>6</sup> and compiled into two distributions. Cramér's V method does not generalize to three variables; therefore, no practical significance distribution was generated for the DGM test. All the distributions are finally displayed into histograms <sup>7</sup> with confidence intervals and mean values computed for each.
 
 ## Footnotes
 <sup>1</sup> Contingency tables generated with with SciPy (version 1.10.1) using the *scipy.stats.contingency.crosstab* method.
@@ -38,14 +38,14 @@ Because all assumptions of the Chi-square test are achieved, the actual tests wi
 2. Alpha error probability: 0.05
 3. Power: 0.80
 4. Degrees of freedom: 
-	- 4 for D~M test.
-	- 8 for G~M test.
-	- 22 for D~G~M test.
+	- 4 for DM test.
+	- 8 for GM test.
+	- 22 for DGM test.
 
 Sample sizes for each of the tests where determined using GPower (version 3.1.9.7)
-- 134 random samples for D~M test.
-- 195 random samples for G~M test.
-- 282 random samples for D~G~M test.
+- 134 random samples for DM test.
+- 195 random samples for GM test.
+- 282 random samples for DGM test.
 
 <sup>3</sup> 250 is chosen for ease of calculation and is adjustable.
 
