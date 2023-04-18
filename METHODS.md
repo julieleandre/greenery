@@ -22,57 +22,39 @@ The Chi-square test of independence was deemed the most appropriate given the th
 
 - The assumption that samples may not be reused within a single contingency table is guaranteed by the sampling method. Subjects are selected from the total n=72,933 population at random without replacement. Therefore, a single participant may only be counted once in one cell of each contingency table generated before any Chi-square test. 
 
-- The condition of independent study groups is satisfied as per the previous explanation. Observations are selected at random regardless of their grouping based on the three variables. As such, participants have an equal chance of being selected; the samples are independent.
+- The condition of independent study groups is also satisfied as per the previous explanation. Observations are selected at random regardless of their grouping based on the three variables. As such, participants have an equal chance of being selected; the samples are independent.
 
-- After the sampling described previously, selected participants are cumulated into contingency tables which contain frequencies. The requirement that the table must contain counts is therefore met. Likewise, at least 80% of the counts within each contingency table are above 5 because of the large enough sample sizes selected for each of three different Chi-square tests <sup>1</sup> <sup>2</sup>.
+- After the sampling described previously, selected participants are cumulated into contingency tables which contain frequencies<sup>1</sup>. The requirement that the table must contain counts is therefore met.
 
-As samples sizes are quite small<sup>2</sup> compared to the available dataset containing n=72,933 subjets, each of the D~M, G~M and D~G~M tests were executed 250 times each on different random samples to get a more complete overview of the database<sup>3</sup>. Statistical significance p-values resulting from the D~M, G~M and D~G~M Chi-square tests<sup>4</sup> were compiled into three separate distributions. Moreover, pratical significance effect size for the D~M and G~M tests were computed using Cramér's V method<sup>5</sup> and compiled into two distributions. Cramér's V method does not generalize to three variables; therefore, no practical significance distribution was generated for the D~G~M test. All the distributions are displayed into histograms <sup>6</sup>.
+- Likewise, at least 80% of the counts within each contingency table are above 5 because of the large enough sample sizes selected for each of three different Chi-square tests <sup>2</sup>. This condition is thus realized.
+
+Because all assumptions of the Chi-square test are achieved, the actual tests will follow. As samples sizes are quite small<sup>2</sup> compared to the available dataset containing n=72,933 subjets, each of the D~M, G~M and D~G~M tests were executed 250 times<sup>3</sup> each on different random samples to get a more complete overview of the database<sup>4</sup>. Statistical significance p-values resulting from the D~M, G~M and D~G~M Chi-square tests<sup>5</sup> were compiled into three separate distributions. Moreover, pratical significance effect size for the D~M and G~M tests were computed using Cramér's V method<sup>6</sup> and compiled into two distributions. Cramér's V method does not generalize to three variables; therefore, no practical significance distribution was generated for the D~G~M test. All the distributions are finally displayed into histograms <sup>7</sup> with confidence intervals and mean values computed for each.
 
 ## Footnotes
-<sup>1</sup> Sample sizes for each of the tests where determined using GPower (version 3.1.9.7) with the following standard parameters.
+<sup>1</sup> Contingency tables generated with with SciPy (version 1.10.1) using the *scipy.stats.contingency.crosstab* method.
+
+<sup>2</sup> Standard parameters used to determine sample size.
 1. Effect size: 0.3
 2. Alpha error probability: 0.05
 3. Power: 0.80
-4. Degrees of freedom: Computed for each test.
+4. Degrees of freedom: 
+	- 4 for D~M test.
+	- 8 for G~M test.
+	- 22 for D~G~M test.
 
-<sup>2</sup> The following are the determined sample sizes for each of the tests.
+Sample sizes for each of the tests where determined using GPower (version 3.1.9.7)
 - 134 random samples for D~M test.
 - 195 random samples for G~M test.
 - 282 random samples for D~G~M test.
 
-<sup>3</sup> Dataset sampling was done using Pandas (version 1.5.3) and NumPy (version 1.24.1) on Python (version 3.11).
+<sup>3</sup> 250 is chosen for ease of calculation and is adjustable.
 
-<sup>4</sup> Chi-square tests performed with SciPy (version 1.10.1) using the *scipy.stats.chi2_contingency* method.
+<sup>4</sup> Dataset sampling was done using Pandas (version 1.5.3) and NumPy (version 1.24.1) on Python (version 3.11).
 
-<sup>5</sup> Cramér's V tests performed with SciPy (version 1.10.1) using the *scipy.stats.contingency.association* method.
+<sup>5</sup> Chi-square tests performed with SciPy (version 1.10.1) using the *scipy.stats.chi2_contingency* method.
 
-<sup>6</sup> Histograms with R (version 4.2.3) and ggstatsplot (version 0.11.1).
+<sup>6</sup> Cramér's V tests performed with SciPy (version 1.10.1) using the *scipy.stats.contingency.association* method.
+
+<sup>7</sup> Histograms generated with R (version 4.2.3) and ggstatsplot (version 0.11.1).
 
 (reference to chi2 test assumptions https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3900058/)
-
-```
-1. goal comparisons (D-M
-   		G-M
-   		D-G-M)
-2. therefore, chi-squared
-3. chi-squared charactoristuc
-	3)assumption #1
-	4)assumption #2
-	5)assumption #3
-	1)decide n  (need 3 magic number, get from science forum)
-	2)n far smaller than paticipant number, in our case (100,150,250)
-		solve 2) randomly sample 250 times
-5. result
-   1) chi-result (statistical significants (p-value))
-   		D-M
-   		G-M
-   		D-G-M
-
-   	2) cramer-v (practical signitificants (effect size))
-	   	D-M
-   		G-M
-   		(null) D-G-M
-6. for caluculate
-	panda
-	scio
-```
